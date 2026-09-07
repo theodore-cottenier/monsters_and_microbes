@@ -1,5 +1,7 @@
 # Scientific Dossier: *Hydrosaltator amictus*
 
+![Scientific diagram of Hydrosaltator amictus](Hydrosaltator_amictus_Scientific_Diagram.png)
+
 ## Profile
 - **Scientific Name:** Hydrosaltator amictus
 - **Common Names:** Volcanic Spring Tick, Sulfur Spring Tick

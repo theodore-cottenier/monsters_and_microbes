@@ -18,6 +18,7 @@ Its documented social reactions are **ignore**, **mate**, and **rob matrix housi
 - [Presentation](Hydrosaltator_amictus_Presentation.pptx) - visual overview
 - [Theo's microscope research presentation](<Theo%E2%80%99s%20Microscope%20Research.pptx>)
 - [Core statistics PDF](Hydrosaltator_amictus_Core_Statistics.pdf)
+- [Scientific diagram](Hydrosaltator_amictus_Scientific_Diagram.png)
 - [Archaea harvester: *Sulfuribacillus thermophilus*](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 - [Protocist refiner: *Saccharoplasma lentus*](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 

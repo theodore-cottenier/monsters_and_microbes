@@ -19,6 +19,7 @@ Symbiont Archaea,Sulfuribacillus thermophilus (Emberspit Microbe)
 Symbiont Protocist,Saccharoplasma lentus (Sugar-Silk Protist)
 Archaea Harvester Profile,Sulfuribacillus_thermophilus_Emberspit_Microbe.md
 Protocist Refiner Profile,Saccharoplasma_lentus_Sugar_Silk_Protist.md
+Scientific Diagram,Hydrosaltator_amictus_Scientific_Diagram.png
 Social Reaction - Ignore,Passes low-value neighbors without signal exchange
 Social Reaction - Mate,Compatible colonies braid valve filaments and trade shell-building cells for one vent cycle
 Social Reaction - Rob Matrix Housing,Peels away and relocates a section of Gelatinicollum vulcanum when the matrix is under-defended
