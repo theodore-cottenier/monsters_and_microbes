@@ -1,7 +1,5 @@
 # Field note: Codex Image Aug 30, 2026, 05_06_59 PM
 
-> Fictional AI-generated interpretation of a microscope image. Visual observations are descriptive; the organism, habitat, and behavior are invented.
-
 ![ Codex Image Aug 30, 2026, 05_06_59 PM](../single-shots/Codex%20Image%20Aug%2030%2C%202026%2C%2005_06_59%20PM.jpg)
 
 ## Specimen record
@@ -29,4 +27,3 @@ This frame turns ordinary texture into a landscape. In the fictional interpretat
 ## Researcher margin note
 
 No real species identification should be inferred. The safest conclusion is that microscopy makes ordinary textures extraordinary and gives them excellent comedic timing.
-

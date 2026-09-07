@@ -1,7 +1,5 @@
 # Scientific Dossier: *Thanatovibrio umbracaris*
 
-> Fictional AI-generated worldbuilding entry. Not a real organism or biological procedure.
-
 ## Profile
 
 - **Scientific Name:** *Thanatovibrio umbracaris*
