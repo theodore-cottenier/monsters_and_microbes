@@ -1,0 +1,16 @@
+{
+  "scientific_name": "Thanatovibrio umbracaris",
+  "common_names": ["Graveglass Microbe", "Black Choir"],
+  "fictional": true,
+  "size": "2.4 micrometers (active filament)",
+  "colony_form": "Threadlike mats with a brittle obsidian-colored silica sheath",
+  "cellular_structure": "Distributed colony intelligence; no permanent central organelle",
+  "habitat": "Abandoned hydrothermal-vent tunnels and lightless brine pockets",
+  "active_temperature": "4-18 degrees C",
+  "dormancy_trigger": "Above 22 degrees C or sudden bright light",
+  "lethal_limit": "Sustained exposure above 41 degrees C",
+  "movement": "Follows vibration through rock and metal",
+  "signature": "A low harmonic clicking that appears to answer nearby sounds",
+  "threats": ["Echo mimicry", "Silica bloom", "Colony memory", "Light aversion"],
+  "containment_lore": "BLACK CHOIR - DO NOT ANSWER"
+}

@@ -92,3 +92,81 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 <img src="single-shots/S20260830_0015.jpg" width="180" alt="S20260830_0015.jpg">
 <img src="single-shots/S20260830_0016.jpg" width="180" alt="S20260830_0016.jpg">
 <img src="single-shots/S20260830_0017.jpg" width="180" alt="S20260830_0017.jpg">
+
+## Microscope field notes
+
+Each image has a dedicated scientific-fiction field note combining visible observations with an imaginary ecosystem.
+
+- [Codex Image Aug 30, 2026, 05_06_00 PM](image-notes/Codex_Image_Aug_30_2026_05_06_00_PM.md) - annotated fly head and mouthparts
+- [Codex Image Aug 30, 2026, 05_06_59 PM](image-notes/Codex_Image_Aug_30_2026_05_06_59_PM.md) - annotated fly head and mouthparts
+- [Codex Image Aug 30, 2026, 05_07_05 PM](image-notes/Codex_Image_Aug_30_2026_05_07_05_PM.md) - annotated fly abdomen and terminalia
+- [S20260523_0001](image-notes/S20260523_0001.md) - plant epidermal cells
+- [S20260523_0004](image-notes/S20260523_0004.md) - plant epidermal cells
+- [S20260523_0006](image-notes/S20260523_0006.md) - plant epidermal cells
+- [S20260523_0007](image-notes/S20260523_0007.md) - plant vascular cross-section
+- [S20260523_0008](image-notes/S20260523_0008.md) - hair or setal field
+- [S20260523_0009](image-notes/S20260523_0009.md) - plant epidermal cells
+- [S20260523_0010](image-notes/S20260523_0010.md) - plant epidermal cells
+- [S20260523_0011](image-notes/S20260523_0011.md) - plant epidermal cells
+- [S20260523_0012](image-notes/S20260523_0012.md) - plant vascular cross-section
+- [S20260523_0013](image-notes/S20260523_0013.md) - plant epidermal cells
+- [S20260523_0014](image-notes/S20260523_0014.md) - plant epidermal cells
+- [S20260523_0015](image-notes/S20260523_0015.md) - hair or setal field
+- [S20260523_0016](image-notes/S20260523_0016.md) - hair or setal field
+- [S20260523_0017](image-notes/S20260523_0017.md) - arthropod body fragment
+- [S20260523_0018](image-notes/S20260523_0018.md) - diffuse translucent field
+- [S20260523_0019](image-notes/S20260523_0019.md) - diffuse translucent field
+- [S20260523_0020](image-notes/S20260523_0020.md) - arthropod body fragment
+- [S20260523_0021](image-notes/S20260523_0021.md) - plant vascular cross-section
+- [S20260523_0022](image-notes/S20260523_0022.md) - plant epidermal cells
+- [S20260523_0023](image-notes/S20260523_0023.md) - stained round bodies
+- [S20260523_0024](image-notes/S20260523_0024.md) - plant vascular cross-section
+- [S20260523_0025](image-notes/S20260523_0025.md) - plant epidermal cells
+- [S20260523_0026](image-notes/S20260523_0026.md) - plant epidermal cells
+- [S20260523_0027](image-notes/S20260523_0027.md) - plant epidermal cells
+- [S20260523_0028](image-notes/S20260523_0028.md) - stained round bodies
+- [S20260523_0029](image-notes/S20260523_0029.md) - oval cellular bodies
+- [S20260523_0030](image-notes/S20260523_0030.md) - stained round bodies
+- [S20260523_0031](image-notes/S20260523_0031.md) - plant vascular cross-section
+- [S20260523_0032](image-notes/S20260523_0032.md) - plant vascular cross-section
+- [S20260523_0033](image-notes/S20260523_0033.md) - stoma and guard-cell aperture
+- [S20260523_0034](image-notes/S20260523_0034.md) - botanical vascular cross-section
+- [S20260523_0035](image-notes/S20260523_0035.md) - botanical vascular cross-section
+- [S20260523_0036](image-notes/S20260523_0036.md) - botanical vascular cross-section
+- [S20260523_0037](image-notes/S20260523_0037.md) - botanical vascular cross-section
+- [S20260523_0038](image-notes/S20260523_0038.md) - botanical vascular cross-section
+- [S20260523_0039](image-notes/S20260523_0039.md) - diffuse translucent field
+- [S20260524_0001](image-notes/S20260524_0001.md) - stoma and guard-cell aperture
+- [S20260524_0002](image-notes/S20260524_0002.md) - translucent cellular field
+- [S20260524_0003](image-notes/S20260524_0003.md) - translucent cellular field
+- [S20260524_0004](image-notes/S20260524_0004.md) - granular tissue or colony field
+- [S20260524_0005](image-notes/S20260524_0005.md) - granular tissue or colony field
+- [S20260524_0006](image-notes/S20260524_0006.md) - granular tissue or colony field
+- [S20260524_0007](image-notes/S20260524_0007.md) - granular tissue or colony field
+- [S20260524_0008](image-notes/S20260524_0008.md) - granular tissue or colony field
+- [S20260524_0009](image-notes/S20260524_0009.md) - granular tissue or colony field
+- [S20260524_0010](image-notes/S20260524_0010.md) - granular tissue or colony field
+- [S20260524_0011](image-notes/S20260524_0011.md) - granular tissue or colony field
+- [S20260830_0001](image-notes/S20260830_0001.md) - turquoise plant epidermis
+- [S20260830_0002](image-notes/S20260830_0002.md) - turquoise plant epidermis
+- [S20260830_0003](image-notes/S20260830_0003.md) - sparkling particulate field
+- [S20260830_0004](image-notes/S20260830_0004.md) - hair or setal field
+- [S20260830_0005](image-notes/S20260830_0005.md) - granular tissue or colony field
+- [S20260830_0006](image-notes/S20260830_0006.md) - arthropod claw or leg
+- [S20260830_0007](image-notes/S20260830_0007.md) - arthropod claw or leg
+- [S20260830_0008](image-notes/S20260830_0008.md) - arthropod body and setae
+- [S20260830_0009](image-notes/S20260830_0009.md) - granular tissue or colony field
+- [S20260830_0010](image-notes/S20260830_0010.md) - hair or setal field
+- [S20260830_0011](image-notes/S20260830_0011.md) - soft-focus filament field
+- [S20260830_0012](image-notes/S20260830_0012.md) - soft-focus filament field
+- [S20260830_0013](image-notes/S20260830_0013.md) - granular tissue or colony field
+- [S20260830_0014](image-notes/S20260830_0014.md) - granular tissue or colony field
+- [S20260830_0015](image-notes/S20260830_0015.md) - arthropod body
+- [S20260830_0016](image-notes/S20260830_0016.md) - false-color arthropod body
+- [S20260830_0017](image-notes/S20260830_0017.md) - arthropod body
+
+## Other AI-generated microbes
+
+- [*Thanatovibrio umbracaris* dossier](Thanatovibrio_umbracaris_Dossier.md) - fictional scary microbe profile
+- [*Thanatovibrio umbracaris* structured data](Thanatovibrio_umbracaris_Data.json)
+- [*Thanatovibrio umbracaris* spreadsheet](Thanatovibrio_umbracaris_Spreadsheet.csv)
