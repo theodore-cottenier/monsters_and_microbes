@@ -4,7 +4,7 @@ This repository contains speculative, AI-generated organism profiles and support
 
 ## Featured organism: *Hydrosaltator amictus*
 
-*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is a 0.3 mm deep-sea microbe-associated organism adapted to hydrothermal vents at 2,500-4,960 m depth. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
+*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is a 0.3 mm deep-sea microbe-associated organism adapted to hydrothermal vents at 2,500-4,960 m depth. It has a fuzzy, glowing, balloon-shaped body, wound-up legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
 
 The organism is described as partially eutelic, with a fixed brain and valves plus a regenerative outer shell. Its proposed symbiotic ecosystem includes *Gelatinicollum vulcanum* as a matrix host, *Sulfuribacillus thermophilus* as a sulfur harvester, and *Saccharoplasma lentus* as a secondary refiner.
 
