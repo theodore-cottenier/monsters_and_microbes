@@ -26,9 +26,11 @@ Its documented social reactions are **ignore**, **mate**, and **rob matrix housi
 
 The dossier, JSON, and CSV provide the easiest formats for reading or reusing the data.
 
-## HydroSalts cryptid ecosystem
+## HydroSalts symbiotic community
 
-Ten additional cryptids share the *Hydrosaltator amictus* vent system. Together they create a loop of signaling, mineral construction, housing repair, decomposition, parasitism, and viral turnover. The full relationship map is in the [HydroSalts cryptid ecosystem overview](hydrosalt-cryptids/README.md).
+Ten additional cryptids share the hydrothermal-vent habitat occupied by the organism *Hydrosaltator amictus*. Together they create a loop of signaling, mineral construction, housing repair, decomposition, parasitism, and viral turnover. The full relationship map is in the [HydroSalts symbiotic community overview](hydrosalt-cryptids/README.md).
+
+[Symbiotic relationship diagram](hydrosalt-cryptids/symbiosis_map.svg)
 
 | Cryptid | Type | Role | Scientific plate |
 | --- | --- | --- | --- |

@@ -1,6 +1,8 @@
 # HydroSalts Cryptid Ecosystem
 
-This shared hydrothermal-vent community surrounds *Hydrosaltator amictus* and its matrix housing, *Gelatinicollum vulcanum*. The ten companion cryptids form a web of signal exchange, mineral construction, decomposition, parasitism, and viral turnover.
+This shared hydrothermal-vent community surrounds the organism *Hydrosaltator amictus* and its matrix housing, *Gelatinicollum vulcanum*. The ten companion cryptids form a web of signal exchange, mineral construction, decomposition, parasitism, and viral turnover.
+
+![HydroSalts symbiotic relationship diagram](symbiosis_map.svg)
 
 ## Community map
 
