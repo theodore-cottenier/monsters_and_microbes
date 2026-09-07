@@ -10,11 +10,12 @@
 
 ## Appearance and Locomotion
 
-*Hydrosaltator amictus* has an elongated fuzzy, glowing body wrapped around a pressure-sensitive inner bladder. Its articulated legs brace against vent surfaces for rapid scuttling and hydraulic leaps. The head carries furry, mustache-like palps that sweep the face and shell, functioning as both sensory feelers and enthusiastic self-grooming mechanisms.
+*Hydrosaltator amictus* has a short, broad oval body wrapped around a pressure-sensitive inner bladder. Its surface carries charcoal, rusty orange, sulfur-yellow, olive, and muted teal biofilm tones typical of vent slime, punctuated by a few luminous speckles. Longer articulated legs fold from the underside for scuttling and hydraulic leaps. The head carries furry, mustache-like palps and three visible light-sensitive spots; the palps sweep the face and shell as sensory feelers and enthusiastic self-grooming mechanisms.
 
-- **Body:** Soft, luminous, and elongated with a dense fuzzy coat
-- **Legs:** Short articulated limbs for scuttling and hydraulic leaping
-- **Head:** Furry mustache-like palps for sensing, grooming, and looking distinguished
+- **Body:** Soft, luminous, and compactly oval with a dense fuzzy coat
+- **Coloration:** Charcoal, rusty orange, sulfur yellow, olive, and muted teal vent-slime tones
+- **Legs:** Long articulated limbs tucked beneath the body for scuttling and hydraulic leaping
+- **Head:** Furry mustache-like palps plus three light-sensitive spots for low-light orientation
 - **Grooming system:** Palps comb mineral dust and sulfur residue from the face valves
 
 ## Environment & Limits
@@ -24,8 +25,8 @@
 - **Wake Trigger:** Above 60C
 - **Lethal Limit:** Above 110C
 
-## Symbiotic Ecosystem
-1. **Matrix Housing:** *Gelatinicollum vulcanum*
+## Symbiotic Matrix Community
+1. **Larger Matrix Host:** *Gelatinicollum vulcanum*
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
