@@ -2,6 +2,8 @@
 
 This repository contains speculative, AI-generated organism profiles and supporting reference material.
 
+![HydroSalts symbiotic relationship diagram](hydrosalt-cryptids/symbiosis_map.svg)
+
 ## Featured organism: *Hydrosaltator amictus*
 
 *Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is a 0.3 mm deep-sea microbe-associated organism adapted to hydrothermal vents at 2,500-4,960 m depth. It has an elongated fuzzy, glowing body, articulated legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
@@ -30,20 +32,18 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 
 Ten additional cryptids share the hydrothermal-vent habitat occupied by the organism *Hydrosaltator amictus*. Together they create a loop of signaling, mineral construction, housing repair, decomposition, parasitism, and viral turnover. The full relationship map is in the [HydroSalts symbiotic community overview](hydrosalt-cryptids/README.md).
 
-[Symbiotic relationship diagram](hydrosalt-cryptids/symbiosis_map.svg)
-
-| Cryptid | Type | Role | Scientific plate |
-| --- | --- | --- | --- |
-| [*Luminocystis ventor*](hydrosalt-cryptids/luminocystis_ventor.md) | Mutualist | Bioluminescent signaler | [Illustration](hydrosalt-cryptids/luminocystis_ventor.png) |
-| [*Ferrucoccus scuttans*](hydrosalt-cryptids/ferrucoccus_scuttans.md) | Mutualist | Mineral mason | [Illustration](hydrosalt-cryptids/ferrucoccus_scuttans.png) |
-| [*Cryovora brineveil*](hydrosalt-cryptids/cryovora_brineveil.md) | Commensal | Brine-current navigator | [Illustration](hydrosalt-cryptids/cryovora_brineveil.png) |
-| [*Mycocladus sulfuris*](hydrosalt-cryptids/mycocladus_sulfuris.md) | Decomposer | Sulfur-film recycler | [Illustration](hydrosalt-cryptids/mycocladus_sulfuris.png) |
-| [*Parasitovibrio hijackii*](hydrosalt-cryptids/parasitovibrio_hijackii.md) | Parasite | Matrix-housing thief | [Illustration](hydrosalt-cryptids/parasitovibrio_hijackii.png) |
-| [*Palpophaga pilosa*](hydrosalt-cryptids/palpophaga_pilosa.md) | Ectoparasite | Palp grazer | [Illustration](hydrosalt-cryptids/palpophaga_pilosa.png) |
-| [*Sulfurivora capsida*](hydrosalt-cryptids/sulfurivora_capsida.md) | Virus | Archaea parasite | [Illustration](hydrosalt-cryptids/sulfurivora_capsida.png) |
-| [*Umbrachoir lyticus*](hydrosalt-cryptids/umbrachoir_lyticus.md) | Virus | Colony rhythm parasite | [Illustration](hydrosalt-cryptids/umbrachoir_lyticus.png) |
-| [*Gelatinocella wardii*](hydrosalt-cryptids/gelatinocella_wardii.md) | Mutualist | Matrix stabilizer | [Illustration](hydrosalt-cryptids/gelatinocella_wardii.png) |
-| [*Aerosporia leaperi*](hydrosalt-cryptids/aerosporia_leaperi.md) | Dispersal mutualist | Spore courier | [Illustration](hydrosalt-cryptids/aerosporia_leaperi.png) |
+| Illustration / cryptid | Type | Role |
+| --- | --- | --- |
+| [<img src="hydrosalt-cryptids/luminocystis_ventor.png" alt="Luminocystis ventor scientific illustration" width="120">](hydrosalt-cryptids/luminocystis_ventor.md)<br>[*Luminocystis ventor*](hydrosalt-cryptids/luminocystis_ventor.md) | Mutualist | Bioluminescent signaler |
+| [<img src="hydrosalt-cryptids/ferrucoccus_scuttans.png" alt="Ferrucoccus scuttans scientific illustration" width="120">](hydrosalt-cryptids/ferrucoccus_scuttans.md)<br>[*Ferrucoccus scuttans*](hydrosalt-cryptids/ferrucoccus_scuttans.md) | Mutualist | Mineral mason |
+| [<img src="hydrosalt-cryptids/cryovora_brineveil.png" alt="Cryovora brineveil scientific illustration" width="120">](hydrosalt-cryptids/cryovora_brineveil.md)<br>[*Cryovora brineveil*](hydrosalt-cryptids/cryovora_brineveil.md) | Commensal | Brine-current navigator |
+| [<img src="hydrosalt-cryptids/mycocladus_sulfuris.png" alt="Mycocladus sulfuris scientific illustration" width="120">](hydrosalt-cryptids/mycocladus_sulfuris.md)<br>[*Mycocladus sulfuris*](hydrosalt-cryptids/mycocladus_sulfuris.md) | Decomposer | Sulfur-film recycler |
+| [<img src="hydrosalt-cryptids/parasitovibrio_hijackii.png" alt="Parasitovibrio hijackii scientific illustration" width="120">](hydrosalt-cryptids/parasitovibrio_hijackii.md)<br>[*Parasitovibrio hijackii*](hydrosalt-cryptids/parasitovibrio_hijackii.md) | Parasite | Matrix-housing thief |
+| [<img src="hydrosalt-cryptids/palpophaga_pilosa.png" alt="Palpophaga pilosa scientific illustration" width="120">](hydrosalt-cryptids/palpophaga_pilosa.md)<br>[*Palpophaga pilosa*](hydrosalt-cryptids/palpophaga_pilosa.md) | Ectoparasite | Palp grazer |
+| [<img src="hydrosalt-cryptids/sulfurivora_capsida.png" alt="Sulfurivora capsida scientific illustration" width="120">](hydrosalt-cryptids/sulfurivora_capsida.md)<br>[*Sulfurivora capsida*](hydrosalt-cryptids/sulfurivora_capsida.md) | Virus | Archaea parasite |
+| [<img src="hydrosalt-cryptids/umbrachoir_lyticus.png" alt="Umbrachoir lyticus scientific illustration" width="120">](hydrosalt-cryptids/umbrachoir_lyticus.md)<br>[*Umbrachoir lyticus*](hydrosalt-cryptids/umbrachoir_lyticus.md) | Virus | Colony rhythm parasite |
+| [<img src="hydrosalt-cryptids/gelatinocella_wardii.png" alt="Gelatinocella wardii scientific illustration" width="120">](hydrosalt-cryptids/gelatinocella_wardii.md)<br>[*Gelatinocella wardii*](hydrosalt-cryptids/gelatinocella_wardii.md) | Mutualist | Matrix stabilizer |
+| [<img src="hydrosalt-cryptids/aerosporia_leaperi.png" alt="Aerosporia leaperi scientific illustration" width="120">](hydrosalt-cryptids/aerosporia_leaperi.md)<br>[*Aerosporia leaperi*](hydrosalt-cryptids/aerosporia_leaperi.md) | Dispersal mutualist | Spore courier |
 
 ## Microscope image index
 
