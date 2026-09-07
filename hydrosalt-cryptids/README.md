@@ -1,6 +1,6 @@
 # HydroSalts Cryptid Ecosystem
 
-This shared hydrothermal-vent community is organized by the larger matrix-forming organism *Gelatinicollum vulcanum*. *Hydrosaltator amictus* is a mobile resident within that matrix, while the ten companion cryptids exchange signals, minerals, nutrients, and parasitic pressure across the housing.
+This shared hydrothermal-vent community is organized by the larger matrix-forming organism *Gelatinicollum vulcanum*. *Hydrosaltator amictus* occupies a small core cluster with the matrix, the Emberspit harvester, the Sugar-Silk refiner, and a signaler; the other cryptids are peripheral members that visit, recycle, parasitize, or infect the wider housing.
 
 ![HydroSalts symbiotic relationship diagram](symbiosis_map.svg)
 

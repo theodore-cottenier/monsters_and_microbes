@@ -30,7 +30,7 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 
 ## HydroSalts symbiotic community
 
-Ten additional cryptids share the hydrothermal-vent habitat organized by the larger matrix-forming organism *Gelatinicollum vulcanum*. *Hydrosaltator amictus* is one mobile resident of that matrix community. Together they create a loop of signaling, mineral construction, housing repair, decomposition, parasitism, and viral turnover. The full relationship map is in the [HydroSalts symbiotic community overview](hydrosalt-cryptids/README.md).
+A compact core microcommunity surrounds *Hydrosaltator amictus*: the larger matrix-forming organism *Gelatinicollum vulcanum*, one sulfur harvester, one carbon refiner, and one signaler. The remaining cryptids are peripheral members of that wider matrix habitat. The full relationship map is in the [HydroSalts symbiotic community overview](hydrosalt-cryptids/README.md).
 
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |

@@ -30,6 +30,8 @@
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
+This is the compact core around *Hydrosaltator amictus*: matrix, sulfur energy, and carbon refinement. Other cryptids in the vent are peripheral visitors, recyclers, parasites, or viruses rather than permanent members of its immediate cluster.
+
 ## Social Reactions
 
 When *Hydrosaltator amictus* encounters another colony or a fresh patch of matrix housing, it uses three documented social responses:
