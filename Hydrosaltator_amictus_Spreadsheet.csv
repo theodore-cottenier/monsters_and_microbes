@@ -13,6 +13,8 @@ Lethal Limit,Above 110C
 Symbiont Slime,Gelatinicollum vulcanum
 Symbiont Archaea,Sulfuribacillus thermophilus (Emberspit Microbe)
 Symbiont Protocist,Saccharoplasma lentus (Sugar-Silk Protist)
+Archaea Harvester Profile,Sulfuribacillus_thermophilus_Emberspit_Microbe.md
+Protocist Refiner Profile,Saccharoplasma_lentus_Sugar_Silk_Protist.md
 Pre-Wash Brine,65%
 Pre-Wash Solvent,20%
 Pre-Wash Acid,14%

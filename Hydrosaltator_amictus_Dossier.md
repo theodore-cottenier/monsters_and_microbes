@@ -15,8 +15,8 @@
 
 ## Symbiotic Ecosystem
 1. **Matrix Housing:** *Gelatinicollum vulcanum*
-2. **Primary Harvester:** *Sulfuribacillus thermophilus (Emberspit Microbe)*
-3. **Secondary Refiner:** *Saccharoplasma lentus (Sugar-Silk Protist)*
+2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
+3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
 ## Chemical Nozzle Configurations
 ### Conical Pre-Wash

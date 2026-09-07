@@ -16,6 +16,8 @@ The organism is described as partially eutelic, with a fixed brain and valves pl
 - [Presentation](Hydrosaltator_amictus_Presentation.pptx) - visual overview
 - [Theo's microscope research presentation](<Theo%E2%80%99s%20Microscope%20Research.pptx>)
 - [Core statistics PDF](Hydrosaltator_amictus_Core_Statistics.pdf)
+- [Archaea harvester: *Sulfuribacillus thermophilus*](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
+- [Protocist refiner: *Saccharoplasma lentus*](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
 ## Notes
 
