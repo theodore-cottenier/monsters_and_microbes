@@ -18,6 +18,14 @@
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
+## Social Reactions
+
+When *Hydrosaltator amictus* encounters another colony or a fresh patch of matrix housing, it uses three documented social responses:
+
+- **Ignore:** Low-value neighbors are passed without signal exchange; the colony saves its attention for hotter chemistry.
+- **Mate:** Compatible colonies braid valve filaments and trade shell-building cells for one vent cycle.
+- **Rob Matrix Housing:** If the host matrix is under-defended, the colony peels away a section of *Gelatinicollum vulcanum* and relocates it. In field notes, this is described as interior decorating with extremely poor manners.
+
 ## Chemical Nozzle Configurations
 ### Conical Pre-Wash
 - Hyper-Saline Brine: 65%

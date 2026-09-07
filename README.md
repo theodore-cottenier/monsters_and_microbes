@@ -8,6 +8,8 @@ This repository contains speculative, AI-generated organism profiles and support
 
 The organism is described as partially eutelic, with a fixed brain and valves plus a regenerative outer shell. Its proposed symbiotic ecosystem includes *Gelatinicollum vulcanum* as a matrix host, *Sulfuribacillus thermophilus* as a sulfur harvester, and *Saccharoplasma lentus* as a secondary refiner.
 
+Its documented social reactions are **ignore**, **mate**, and **rob matrix housing** - the last involving the theft and relocation of *Gelatinicollum vulcanum* gel.
+
 ## HydroSalts reference files
 
 - [Scientific dossier](Hydrosaltator_amictus_Dossier.md) - profile, habitat, symbiosis, and nozzle configurations
