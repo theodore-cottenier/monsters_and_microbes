@@ -25,6 +25,24 @@ Its documented social reactions are **ignore**, **mate**, and **rob matrix housi
 ## Notes
 
 The dossier, JSON, and CSV provide the easiest formats for reading or reusing the data.
+
+## HydroSalts cryptid ecosystem
+
+Ten additional cryptids share the *Hydrosaltator amictus* vent system. Together they create a loop of signaling, mineral construction, housing repair, decomposition, parasitism, and viral turnover. The full relationship map is in the [HydroSalts cryptid ecosystem overview](hydrosalt-cryptids/README.md).
+
+| Cryptid | Type | Role | Scientific plate |
+| --- | --- | --- | --- |
+| [*Luminocystis ventor*](hydrosalt-cryptids/luminocystis_ventor.md) | Mutualist | Bioluminescent signaler | [Illustration](hydrosalt-cryptids/luminocystis_ventor.png) |
+| [*Ferrucoccus scuttans*](hydrosalt-cryptids/ferrucoccus_scuttans.md) | Mutualist | Mineral mason | [Illustration](hydrosalt-cryptids/ferrucoccus_scuttans.png) |
+| [*Cryovora brineveil*](hydrosalt-cryptids/cryovora_brineveil.md) | Commensal | Brine-current navigator | [Illustration](hydrosalt-cryptids/cryovora_brineveil.png) |
+| [*Mycocladus sulfuris*](hydrosalt-cryptids/mycocladus_sulfuris.md) | Decomposer | Sulfur-film recycler | [Illustration](hydrosalt-cryptids/mycocladus_sulfuris.png) |
+| [*Parasitovibrio hijackii*](hydrosalt-cryptids/parasitovibrio_hijackii.md) | Parasite | Matrix-housing thief | [Illustration](hydrosalt-cryptids/parasitovibrio_hijackii.png) |
+| [*Palpophaga pilosa*](hydrosalt-cryptids/palpophaga_pilosa.md) | Ectoparasite | Palp grazer | [Illustration](hydrosalt-cryptids/palpophaga_pilosa.png) |
+| [*Sulfurivora capsida*](hydrosalt-cryptids/sulfurivora_capsida.md) | Virus | Archaea parasite | [Illustration](hydrosalt-cryptids/sulfurivora_capsida.png) |
+| [*Umbrachoir lyticus*](hydrosalt-cryptids/umbrachoir_lyticus.md) | Virus | Colony rhythm parasite | [Illustration](hydrosalt-cryptids/umbrachoir_lyticus.png) |
+| [*Gelatinocella wardii*](hydrosalt-cryptids/gelatinocella_wardii.md) | Mutualist | Matrix stabilizer | [Illustration](hydrosalt-cryptids/gelatinocella_wardii.png) |
+| [*Aerosporia leaperi*](hydrosalt-cryptids/aerosporia_leaperi.md) | Dispersal mutualist | Spore courier | [Illustration](hydrosalt-cryptids/aerosporia_leaperi.png) |
+
 ## Microscope image index
 
 Each row pairs a shot with its species-named field-note description. Images are kept compact so the table remains easy to scan.
