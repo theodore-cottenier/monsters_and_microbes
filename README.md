@@ -23,7 +23,7 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 ## Other AI-generated microbes
 ## Microscope field notes
 
-Each row pairs the original shot with its species-named fictional field-note description. The descriptions mix visible observations with invented biology.
+Each row pairs the original shot with its species-named field-note description. The descriptions mix visible observations with invented biology.
 
 | Shot | Description |
 | --- | --- |
@@ -95,6 +95,6 @@ Each row pairs the original shot with its species-named fictional field-note des
 | <img src="single-shots/S20260830_0016.jpg" width="180" alt="S20260830_0016.jpg"> | [*Speculomyces cellulovorus* field note](image-notes/Speculomyces_cellulovorus_S20260830_0016.md) - false-color arthropod body |
 | <img src="single-shots/S20260830_0017.jpg" width="180" alt="S20260830_0017.jpg"> | [*Speculomyces velutinus* field note](image-notes/Speculomyces_velutinus_S20260830_0017.md) - arthropod body |
 
-- [*Thanatovibrio umbracaris* dossier](Thanatovibrio_umbracaris_Dossier.md) - fictional scary microbe profile
+- [*Thanatovibrio umbracaris* dossier](Thanatovibrio_umbracaris_Dossier.md) - scary microbe profile
 - [*Thanatovibrio umbracaris* structured data](Thanatovibrio_umbracaris_Data.json)
 - [*Thanatovibrio umbracaris* spreadsheet](Thanatovibrio_umbracaris_Spreadsheet.csv)

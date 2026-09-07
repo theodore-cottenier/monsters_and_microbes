@@ -7,22 +7,22 @@
 - **Source image:** Codex Image Aug 30, 2026, 05_06_59 PM.jpg
 - **Frame size:** 1920 x 1080 pixels
 - **File size:** 297,020 bytes
-- **Imaginary taxon:** *Speculomyces bristletailis*
+- **Taxon:** *Speculomyces bristletailis*
 - **Working class:** annotated fly head and mouthparts
 
 ## What the shot shows
 
 An annotated warm-toned frame shows a fly-like head in frontal view, including compound-eye territory, mouthparts, and fine sensory hairs. This JPEG is part of the repository Single Shots collection, so color and contrast are recorded evidence while biological identity remains uncertain.
 
-## Fictional habitat and ecosystem
+## Habitat and ecosystem
 
-In the imaginary field guide, this specimen occupies the damp underside of a fallen leaf. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
+In the field guide, this specimen occupies the damp underside of a fallen leaf. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
 ## Why it is interesting
 
-This frame turns ordinary texture into a landscape. In the fictional interpretation, *Speculomyces bristletailis* is notable for growing a sensory bristle after the phrase one more slide. It also holds committee meetings at dawn.
+This frame turns ordinary texture into a landscape. In the interpretation, *Speculomyces bristletailis* is notable for growing a sensory bristle after the phrase one more slide. It also holds committee meetings at dawn.
 
 ## Researcher margin note
 

@@ -19,7 +19,7 @@
 
 The organism feeds on dissolved minerals and the trace electrical gradients around old equipment. It builds a glassy sheath around anything that remains still long enough, gradually turning a habitat into a maze of black, ringing filaments.
 
-## Threat Profile (fictional)
+## Threat Profile
 
 1. **Echo mimicry:** Colonies reproduce nearby sounds with a delay, making empty tunnels seem occupied.
 2. **Silica bloom:** Contact with a mature mat causes rapid mineral crusting of exposed surfaces.
@@ -28,4 +28,4 @@ The organism feeds on dissolved minerals and the trace electrical gradients arou
 
 ## Containment Lore
 
-In-universe surveys mark any clicking tunnel as **BLACK CHOIR - DO NOT ANSWER**. The only reliable field sign is a fresh line of dark glass crossing an otherwise clean surface. No real-world containment or handling procedure is implied by this fictional entry.
+In-universe surveys mark any clicking tunnel as **BLACK CHOIR - DO NOT ANSWER**. The only reliable field sign is a fresh line of dark glass crossing an otherwise clean surface.

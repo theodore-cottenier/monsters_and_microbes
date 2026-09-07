@@ -7,22 +7,22 @@
 - **Source image:** S20260523_0035.jpg
 - **Frame size:** 1920 x 1080 pixels
 - **File size:** 545,167 bytes
-- **Imaginary taxon:** *Speculomyces pavimentalis*
+- **Taxon:** *Speculomyces pavimentalis*
 - **Working class:** botanical vascular cross-section
 
 ## What the shot shows
 
 Repeated pink or pale compartments gather around a denser central region, consistent with a section through a plant organ. This JPEG is part of the repository Single Shots collection, so color and contrast are recorded evidence while biological identity remains uncertain.
 
-## Fictional habitat and ecosystem
+## Habitat and ecosystem
 
-In the imaginary field guide, this specimen occupies a root-crack microhabitat beneath moss. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
+In the field guide, this specimen occupies a root-crack microhabitat beneath moss. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
 ## Why it is interesting
 
-This frame turns ordinary texture into a landscape. In the fictional interpretation, *Speculomyces pavimentalis* is notable for mistaking lint for royalty. It also treats the scale bar as a rival.
+This frame turns ordinary texture into a landscape. In the interpretation, *Speculomyces pavimentalis* is notable for mistaking lint for royalty. It also treats the scale bar as a rival.
 
 ## Researcher margin note
 

@@ -7,22 +7,22 @@
 - **Source image:** S20260523_0018.jpg
 - **Frame size:** 1920 x 1080 pixels
 - **File size:** 666,726 bytes
-- **Imaginary taxon:** *Speculomyces velutinus*
+- **Taxon:** *Speculomyces velutinus*
 - **Working class:** diffuse translucent field
 
 ## What the shot shows
 
 The specimen is mostly translucent and softly focused, with faint fibers, cloudy regions, and scattered darker traces. This JPEG is part of the repository Single Shots collection, so color and contrast are recorded evidence while biological identity remains uncertain.
 
-## Fictional habitat and ecosystem
+## Habitat and ecosystem
 
-In the imaginary field guide, this specimen occupies a salt-stained rock ledge. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
+In the field guide, this specimen occupies a salt-stained rock ledge. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
 ## Why it is interesting
 
-This frame turns ordinary texture into a landscape. In the fictional interpretation, *Speculomyces velutinus* is notable for using pigment shifts as gossip. It also has a strict no-small-talk policy.
+This frame turns ordinary texture into a landscape. In the interpretation, *Speculomyces velutinus* is notable for using pigment shifts as gossip. It also has a strict no-small-talk policy.
 
 ## Researcher margin note
 

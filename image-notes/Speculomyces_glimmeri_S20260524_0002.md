@@ -7,22 +7,22 @@
 - **Source image:** S20260524_0002.jpg
 - **Frame size:** 1920 x 1080 pixels
 - **File size:** 480,229 bytes
-- **Imaginary taxon:** *Speculomyces glimmeri*
+- **Taxon:** *Speculomyces glimmeri*
 - **Working class:** translucent cellular field
 
 ## What the shot shows
 
 A pale semi-transparent field contains rounded or irregular compartments with soft boundaries and subtle pink or blue staining. This JPEG is part of the repository Single Shots collection, so color and contrast are recorded evidence while biological identity remains uncertain.
 
-## Fictional habitat and ecosystem
+## Habitat and ecosystem
 
-In the imaginary field guide, this specimen occupies a root-crack microhabitat beneath moss. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
+In the field guide, this specimen occupies a root-crack microhabitat beneath moss. It shares the microhabitat with mineral-feeding filmers, threadlike decomposers, and one judgmental springtail. Nearby cells exchange nutrients through brief electrical pulses called **polite osmosis**, because they take turns asking first.
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
 ## Why it is interesting
 
-This frame turns ordinary texture into a landscape. In the fictional interpretation, *Speculomyces glimmeri* is notable for keeping a grudge against bright illumination. It also loses arguments to pollen.
+This frame turns ordinary texture into a landscape. In the interpretation, *Speculomyces glimmeri* is notable for keeping a grudge against bright illumination. It also loses arguments to pollen.
 
 ## Researcher margin note
 
