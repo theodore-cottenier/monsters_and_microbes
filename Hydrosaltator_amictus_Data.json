@@ -1,0 +1,35 @@
+{
+    "Scientific Name": "Hydrosaltator amictus",
+    "Common Names": [
+        "Volcanic Spring Tick",
+        "Sulfur Spring Tick"
+    ],
+    "Size": "0.3mm",
+    "Total Cell Count": 1400,
+    "Cellular Structure": "Partially Eutelic (Fixed brain/valves, regenerative outer shell)",
+    "Habitat": "Deep-sea hydrothermal vents (2,500m to 4,960m depth)",
+    "Lifespan": "1-2 years active (Centuries in Tun State)",
+    "Active Temp Range": "50C to 85C",
+    "Cryptobiotic Trigger": "Below 40C",
+    "Revival Trigger": "Above 60C",
+    "Lethal Limit": "Above 110C",
+    "Symbionts": {
+        "Matrix Slime": "Gelatinicollum vulcanum",
+        "Archaea Harvester": "Sulfuribacillus thermophilus (Emberspit Microbe)",
+        "Protocist Refiner": "Saccharoplasma lentus (Sugar-Silk Protist)"
+    },
+    "Spray Proportions": {
+        "Conical Pre-Wash Nozzle": {
+            "Hyper-Saline Brine": "65%",
+            "Liquid Sulfur Solvent": "20%",
+            "Active Acid": "14%",
+            "Dissolved H2S Gas": "1%"
+        },
+        "Aerosolizing Blast Vent": {
+            "Hyper-Saline Brine": "75%",
+            "Active Acid": "15%",
+            "Liquid Sulfur Solvent": "8%",
+            "Dissolved H2S Gas": "2%"
+        }
+    }
+}
