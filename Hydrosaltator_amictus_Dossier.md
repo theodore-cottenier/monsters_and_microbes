@@ -10,10 +10,10 @@
 
 ## Appearance and Locomotion
 
-*Hydrosaltator amictus* has a fuzzy, glowing, balloon-shaped body wrapped around a pressure-sensitive inner bladder. Its legs remain wound into spring-like coils while resting, then release for rapid scuttling or hydraulic leaps between vent surfaces. The head carries furry, mustache-like palps that sweep the face and shell, functioning as both sensory feelers and enthusiastic self-grooming mechanisms.
+*Hydrosaltator amictus* has an elongated fuzzy, glowing body wrapped around a pressure-sensitive inner bladder. Its articulated legs brace against vent surfaces for rapid scuttling and hydraulic leaps. The head carries furry, mustache-like palps that sweep the face and shell, functioning as both sensory feelers and enthusiastic self-grooming mechanisms.
 
-- **Body:** Soft, luminous, and balloon-shaped with a dense fuzzy coat
-- **Legs:** Wound-up coil limbs for scuttling and hydraulic leaping
+- **Body:** Soft, luminous, and elongated with a dense fuzzy coat
+- **Legs:** Short articulated limbs for scuttling and hydraulic leaping
 - **Head:** Furry mustache-like palps for sensing, grooming, and looking distinguished
 - **Grooming system:** Palps comb mineral dust and sulfur residue from the face valves
 
