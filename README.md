@@ -2,11 +2,11 @@
 
 This repository contains speculative, AI-generated organism profiles and supporting reference material.
 
-![HydroSalts symbiotic relationship diagram](hydrosalt-cryptids/symbiosis_map.svg)
+![Illustrated HydroSalts vent food web](hydrosalt-cryptids/symbiosis_map.png)
 
 ## Featured organism: *Hydrosaltator amictus*
 
-*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is a 0.3 mm deep-sea microbe-associated organism adapted to hydrothermal vents at 2,500-4,960 m depth. It has an elongated fuzzy, glowing body, articulated legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
+*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is a 0.3 mm deep-sea microbe-associated organism adapted to hydrothermal vents at 2,500-4,960 m depth. It has a compact oval fuzzy, glowing body, articulated legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
 
 The organism is described as partially eutelic, with a fixed brain and valves plus a regenerative outer shell. Its proposed symbiotic ecosystem includes *Gelatinicollum vulcanum* as a matrix host, *Sulfuribacillus thermophilus* as a sulfur harvester, and *Saccharoplasma lentus* as a secondary refiner.
 
@@ -30,7 +30,7 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 
 ## HydroSalts symbiotic community
 
-A compact core microcommunity surrounds *Hydrosaltator amictus*: the larger matrix-forming organism *Gelatinicollum vulcanum*, one sulfur harvester, one carbon refiner, and one signaler. The remaining cryptids are peripheral members of that wider matrix habitat. The full relationship map is in the [HydroSalts symbiotic community overview](hydrosalt-cryptids/README.md).
+The illustrated vent food web connects **15 organisms through 20 direct relationships**, with **18 links independent of the Volcanic Spring Tick**. Colored arrows distinguish beneficial exchange, predation, parasitism, viral infection, and commensal transport. The [community overview and relationship table](hydrosalt-cryptids/README.md) explain every arrow, including exchanges among harvesters, refiners, repair cells, recyclers, and the cold-fissure community. The [Matrix Host profile](hydrosalt-cryptids/gelatinicollum_vulcanum.md) describes the living habitat itself.
 
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |

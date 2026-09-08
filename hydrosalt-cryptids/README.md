@@ -1,33 +1,87 @@
-# HydroSalts Cryptid Ecosystem
+# HydroSalts: a living vent food web
 
-This shared hydrothermal-vent community is organized by the larger matrix-forming organism *Gelatinicollum vulcanum*. *Hydrosaltator amictus* occupies a small core cluster with the matrix, the Emberspit harvester, the Sugar-Silk refiner, and a signaler; the other cryptids are peripheral members that visit, recycle, parasitize, or infect the wider housing.
+This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is one mobile resident. The illustrated map includes **all 15 vent organisms**, with **20 direct relationships; 18 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
 
-![HydroSalts symbiotic relationship diagram](symbiosis_map.svg)
+![Illustrated HydroSalts vent food web with fifteen organisms and colored relationship arrows](symbiosis_map.png)
 
-## Community map
+[Open the full PNG diagram](symbiosis_map.png) or the [scalable SVG diagram](symbiosis_map.svg). Labels link to organism profiles when the SVG is opened directly in a compatible viewer. The artwork shows hot sulfur channels on the left, living gel terraces in the middle, and cold brine and abandoned fissures on the right. Organisms are enlarged independently and are not drawn to a common scale.
 
-| Organism | Type | Ecosystem role | Primary relationship |
-| --- | --- | --- | --- |
-| [*Luminocystis ventor*](luminocystis_ventor.md) | Mutualist | Bioluminescent signaler | Signals safe corridors through Gelatinicollum's matrix; receives matrix sugars and shelter |
-| [*Ferrucoccus scuttans*](ferrucoccus_scuttans.md) | Mutualist | Mineral mason | Builds stable mineral footholds on Gelatinicollum's outer sheets; receives sulfur energy packets |
-| [*Cryovora brineveil*](cryovora_brineveil.md) | Commensal | Brine-current navigator | Uses currents along Gelatinicollum's matrix as a map without taking its food; concentrates trace salts |
-| [*Mycocladus sulfuris*](mycocladus_sulfuris.md) | Decomposer | Sulfur-film recycler | Breaks down spent sulfur films for Saccharoplasma lentus and returns trace minerals to the matrix |
-| [*Parasitovibrio hijackii*](parasitovibrio_hijackii.md) | Parasite | Matrix-housing thief | Steals gel directly from Gelatinicollum's sheets; scavengers feed on abandoned gel trails |
-| [*Palpophaga pilosa*](palpophaga_pilosa.md) | Ectoparasite | Palp grazer | Feeds on Hydrosaltator's palps, but nests in Gelatinicollum's larger matrix habitat |
-| [*Sulfurivora capsida*](sulfurivora_capsida.md) | Virus | Archaea parasite | Uses Emberspit cells to replicate; periodic infections stop harvesters monopolizing sulfur channels |
-| [*Umbrachoir lyticus*](umbrachoir_lyticus.md) | Virus | Colony rhythm parasite | Infects abandoned film colonies and releases nutrients for Mycocladus; outbreaks disrupt local signals |
-| [*Gelatinocella wardii*](gelatinocella_wardii.md) | Mutualist | Housing stabilizer | Repairs tears in Gelatinicollum vulcanum and shelters the host's young; receives sugars from Saccharoplasma |
-| [*Aerosporia leaperi*](aerosporia_leaperi.md) | Dispersal mutualist | Spore courier | Carries dormant cells and chemical cues between Gelatinicollum terraces; Hydrosaltator is one launch partner |
+## How to read the arrows
 
-## Symbiotic relationships
+- **Green, solid — beneficial exchange:** resource or service provider → recipient. Reciprocal arrows show the two sides of a mutualism.
+- **Orange, solid — predation:** consumer → living prey.
+- **Red, dashed — parasitism:** parasite → affected host.
+- **Purple, dotted — viral infection:** virus → infected organism.
+- **Blue, solid — commensal transport:** carrier or source of turbulence → beneficiary.
 
-- **Energy loop:** *Sulfuribacillus thermophilus* harvests sulfur energy; *Saccharoplasma lentus* refines carbon-rich byproducts; *Hydrosaltator amictus* distributes both through its matrix.
-- **Housing loop:** *Gelatinocella wardii* repairs the large *Gelatinicollum vulcanum* matrix, while *Parasitovibrio hijackii* steals it.
-- **Signal loop:** *Luminocystis ventor* marks safe routes; *Cryovora brineveil* reads currents; *Aerosporia leaperi* transports cues and dormant recruits.
-- **Mineral loop:** *Ferrucoccus scuttans* builds footholds and *Mycocladus sulfuris* recycles spent sulfur films.
-- **Parasitic pressure:** *Palpophaga pilosa* grazes the host's palps, while *Sulfurivora capsida* infects the Emberspit harvester.
-- **Viral turnover:** *Umbrachoir lyticus* breaks down abandoned colonies and releases nutrients, but outbreaks scramble local signals.
+Arrowheads show direction. Edge identifiers **E01–E20** match the table below; colors, line patterns, identifiers, and text descriptions work together so color is not the only cue. Predation here means consuming living cells or filament tips. Gel theft and persistent palp grazing remain parasitism; viral infection has its own category.
+
+## Organisms
+
+| No. | Organism | Common name |
+| --- | --- | --- |
+| 01 | [*Sulfuribacillus thermophilus*](../Sulfuribacillus_thermophilus_Emberspit_Microbe.md) | Emberspit |
+| 02 | [*Sulfurivora capsida*](sulfurivora_capsida.md) | Emberspit Phage |
+| 03 | [*Saccharoplasma lentus*](../Saccharoplasma_lentus_Sugar_Silk_Protist.md) | Sugar-Silk |
+| 04 | [*Gelatinocella wardii*](gelatinocella_wardii.md) | Matrix Gardener |
+| 05 | [*Cryovora brineveil*](cryovora_brineveil.md) | Cold Veil |
+| 06 | [*Ferrucoccus scuttans*](ferrucoccus_scuttans.md) | Ironback Mason |
+| 07 | [*Gelatinicollum vulcanum*](gelatinicollum_vulcanum.md) | Matrix Host |
+| 08 | [*Luminocystis ventor*](luminocystis_ventor.md) | Lantern Veil |
+| 09 | [*Aerosporia leaperi*](aerosporia_leaperi.md) | Leapspore |
+| 10 | [*Parasitovibrio hijackii*](parasitovibrio_hijackii.md) | Matrix Jackal |
+| 11 | [*Hydrosaltator amictus*](../Hydrosaltator_amictus_Dossier.md) | Volcanic Spring Tick |
+| 12 | [*Palpophaga pilosa*](palpophaga_pilosa.md) | Moustache Mite |
+| 13 | [*Mycocladus sulfuris*](mycocladus_sulfuris.md) | Sulfur Lace |
+| 14 | [*Thanatovibrio umbracaris*](../Thanatovibrio_umbracaris_Dossier.md) | Graveglass |
+| 15 | [*Umbrachoir lyticus*](umbrachoir_lyticus.md) | Black Choir Virus |
+
+## Direct relationships
+
+These are in-universe relationships, including newly developed interactions for this expanded food web. The diagram shows the listed direct links; the shared matrix also provides background habitat for its residents.
+
+| Edge | From | To | Relationship | Resource, service, or effect |
+| --- | --- | --- | --- | --- |
+| E01 | Emberspit | Sugar-Silk | Beneficial exchange | Carbon byproducts |
+| E02 | Sugar-Silk | Emberspit | Beneficial exchange | Sugars |
+| E03 | Sugar-Silk | Matrix Gardener | Beneficial exchange | Repair fuel |
+| E04 | Matrix Gardener | Matrix Host | Beneficial exchange | Patches gel |
+| E05 | Matrix Host | Matrix Gardener | Beneficial exchange | Shelter |
+| E06 | Emberspit | Ironback Mason | Beneficial exchange | Chemical energy |
+| E07 | Ironback Mason | Emberspit | Beneficial exchange | Mineral footholds |
+| E08 | Cold Veil | Sugar-Silk | Beneficial exchange | Trace salts |
+| E09 | Sugar-Silk | Lantern Veil | Beneficial exchange | Sugars |
+| E10 | Lantern Veil | Leapspore | Beneficial exchange | Safe-route cues |
+| E11 | Leapspore | Matrix Gardener | Beneficial exchange | Disperses recruits |
+| E12 | Sulfur Lace | Sugar-Silk | Beneficial exchange | Recycled carbon |
+| E13 | Graveglass | Ironback Mason | Beneficial exchange | Shed silica |
+| E14 | Moustache Mite | Sulfur Lace | Predation | Grazes living tips |
+| E15 | Matrix Jackal | Matrix Gardener | Predation | Consumes repair cells |
+| E16 | Moustache Mite | Volcanic Spring Tick | Parasitism | Palp grazing |
+| E17 | Matrix Jackal | Matrix Host | Parasitism | Steals gel |
+| E18 | Emberspit Phage | Emberspit | Viral infection | Infects harvester |
+| E19 | Black Choir Virus | Graveglass | Viral infection | Infects Graveglass |
+| E20 | Volcanic Spring Tick | Leapspore | Commensal transport | Launch turbulence |
+
+## Community dynamics
+
+The Emberspit harvester trades carbon-rich byproducts for Sugar-Silk's refined sugars. It also supplies the Ironback Mason, whose mineral footholds stabilize the harvester's films. Cold Veil supplies trace salts to Sugar-Silk, while Sulfur Lace contributes recycled carbon. These links let resource exchange continue without passing through the tick.
+
+Sugar-Silk fuels Matrix Gardener repairs and Lantern Veil signals. Matrix Gardeners patch the Matrix Host in exchange for sheltered living space. Lantern Veil's cues help Leapspore settle along stable corridors; Leapspore carries dormant gardener recruits between terraces. The tick contributes launch turbulence as one dispersal partner.
+
+Two new feeding interactions add direct predation between community members. The Moustache Mite supplements its usual palp grazing by cropping **living Sulfur Lace tips**. The Matrix Jackal opportunistically consumes **Matrix Gardener repair cells** encountered while stealing gel. Limited grazing trims local growth; concentrated feeding can reduce recycling or delay housing repair.
+
+The cold fissure community connects to the warm terraces through shed material. Graveglass deposits and later sheds silica fragments that the Ironback Mason can collect after currents move them out of the cold zone. This material transfer does not require the heat-sensitive Graveglass to inhabit hot harvester channels. Black Choir Virus infects compatible Graveglass cells in old films; the similarly named virus and microbe remain distinct organisms. Emberspit Phage infects the sulfur harvester.
+
+## Diagram sources
+
+- [Relationship data](relationships.json) records nodes, directed edges, labels, and diagram paths.
+- [Editable diagram template](symbiosis_map.template.svg) contains the annotation layout.
+- [Habitat artwork](vent_habitat.png) was generated with the built-in image-generation tool.
+- [Generation prompt and production notes](diagram-production.md) record the final artwork prompt.
+- Run `powershell -File hydrosalt-cryptids/build-diagram.ps1` from the repository root to embed the artwork into the self-contained SVG.
+- Run `powershell -File hydrosalt-cryptids/render-diagram.ps1` to render the PNG from the artwork and relationship data using Windows drawing tools.
 
 ## Field shorthand
 
-The ecosystem is healthiest when mutualists build and recycle faster than parasites steal and viruses lyse. A balanced site is marked **GLOW - HUM - CLICK - PATCH**.
+A balanced site is marked **GLOW - HUM - CLICK - PATCH**: signaling, exchange, colony activity, and repair persist while grazing, theft, and infection prevent any one patch from expanding unchecked.

@@ -20,6 +20,26 @@ In the field guide, this specimen occupies a brackish tide-pool margin. It share
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
+## Fictional biology
+
+The following species-level behavior and anatomy are imagined field-guide lore shared across this taxon's entries; they are not observations or identifications from this photograph.
+
+## Detailed behavior
+
+Cellulovorus works along decomposing plant residue in the fictional habitat, softening exposed material and absorbing the resulting soluble food. Mineral grains caught during feeding are sorted into small deposits along the colony edge. Water movement against these deposits creates the tiny resonant bells of the field guide.
+
+A passing shadow interrupts feeding: exposed lobes contract, contacts tighten, and the colony becomes still until the light returns to its previous level. Neighboring cells relay the disturbance through mechanical contact, producing a brief wave of withdrawal. As a patch is exhausted, fragments carrying reserves and a few mineral grains detach to establish another feeding front.
+
+## Detailed anatomy
+
+**Feeding body.** The fictional organism forms an irregular lobed cell or loose chain of connected cells. A flexible outer coat adheres to decaying plant surfaces, while broad ventral lobes increase contact with the material being processed. Enzyme-secreting sites and absorptive membrane patches are concentrated along this feeding face.
+
+**Mineral bells.** Shallow exterior cups accumulate selected mineral grains in a secreted binder. Their thin rims and hollow centers provide the setting's resonant structures. The cups remain outside the living membrane and can break away without spilling the cell contents; they are neither internal skeletons nor auditory organs.
+
+**Sensory and attachment regions.** Light-sensitive patches lie near the exposed cortex. Supporting fibers connect them mechanically to the lobe bases, where contraction reduces the exposed feeding area. Basal adhesive pads prevent a startled cell from being swept off its substrate.
+
+**Digestive interior.** Digestive vacuoles carry absorbed material around a central nucleus, and reserve granules accumulate behind the active feeding front. Clear compartments regulate water balance. During fragmentation, each viable portion must retain living genetic material and reserves before sealing its new edge. These invented structures are separate from any actual plant walls or arthropod fragments shown in the photographs.
+
 ## Why it is interesting
 
 This frame turns ordinary texture into a landscape. In the interpretation, *Speculomyces cellulovorus* is notable for turning mineral dust into resonant bells. It also believes every shadow is a predator.

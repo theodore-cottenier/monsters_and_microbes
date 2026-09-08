@@ -1,0 +1,342 @@
+{
+  "description": "Speculative HydroSalts vent community. Exchange and transport arrows point from provider to recipient; predation, parasitism and infection arrows point from attacker to target.",
+  "nodes": [
+    {
+      "id": "01",
+      "species": "Sulfuribacillus thermophilus",
+      "name": "Emberspit",
+      "profile": "../Sulfuribacillus_thermophilus_Emberspit_Microbe.md",
+      "x": 210,
+      "y": 58,
+      "latinY": 325
+    },
+    {
+      "id": "02",
+      "species": "Sulfurivora capsida",
+      "name": "Emberspit Phage",
+      "profile": "sulfurivora_capsida.md",
+      "x": 490,
+      "y": 58,
+      "latinY": 325
+    },
+    {
+      "id": "03",
+      "species": "Saccharoplasma lentus",
+      "name": "Sugar-Silk",
+      "profile": "../Saccharoplasma_lentus_Sugar_Silk_Protist.md",
+      "x": 740,
+      "y": 58,
+      "latinY": 325
+    },
+    {
+      "id": "04",
+      "species": "Gelatinocella wardii",
+      "name": "Matrix Gardener",
+      "profile": "gelatinocella_wardii.md",
+      "x": 1080,
+      "y": 58,
+      "latinY": 325
+    },
+    {
+      "id": "05",
+      "species": "Cryovora brineveil",
+      "name": "Cold Veil",
+      "profile": "cryovora_brineveil.md",
+      "x": 1370,
+      "y": 58,
+      "latinY": 325
+    },
+    {
+      "id": "06",
+      "species": "Ferrucoccus scuttans",
+      "name": "Ironback Mason",
+      "profile": "ferrucoccus_scuttans.md",
+      "x": 190,
+      "y": 365,
+      "latinY": 633
+    },
+    {
+      "id": "07",
+      "species": "Gelatinicollum vulcanum",
+      "name": "Matrix Host",
+      "profile": "gelatinicollum_vulcanum.md",
+      "x": 490,
+      "y": 365,
+      "latinY": 658
+    },
+    {
+      "id": "08",
+      "species": "Luminocystis ventor",
+      "name": "Lantern Veil",
+      "profile": "luminocystis_ventor.md",
+      "x": 790,
+      "y": 365,
+      "latinY": 633
+    },
+    {
+      "id": "09",
+      "species": "Aerosporia leaperi",
+      "name": "Leapspore",
+      "profile": "aerosporia_leaperi.md",
+      "x": 1080,
+      "y": 365,
+      "latinY": 650
+    },
+    {
+      "id": "10",
+      "species": "Parasitovibrio hijackii",
+      "name": "Matrix Jackal",
+      "profile": "parasitovibrio_hijackii.md",
+      "x": 1360,
+      "y": 365,
+      "latinY": 650
+    },
+    {
+      "id": "11",
+      "species": "Hydrosaltator amictus",
+      "name": "Volcanic Spring Tick",
+      "profile": "../Hydrosaltator_amictus_Dossier.md",
+      "x": 180,
+      "y": 693,
+      "latinY": 968
+    },
+    {
+      "id": "12",
+      "species": "Palpophaga pilosa",
+      "name": "Moustache Mite",
+      "profile": "palpophaga_pilosa.md",
+      "x": 490,
+      "y": 693,
+      "latinY": 968
+    },
+    {
+      "id": "13",
+      "species": "Mycocladus sulfuris",
+      "name": "Sulfur Lace",
+      "profile": "mycocladus_sulfuris.md",
+      "x": 790,
+      "y": 693,
+      "latinY": 968
+    },
+    {
+      "id": "14",
+      "species": "Thanatovibrio umbracaris",
+      "name": "Graveglass",
+      "profile": "../Thanatovibrio_umbracaris_Dossier.md",
+      "x": 1080,
+      "y": 693,
+      "latinY": 968
+    },
+    {
+      "id": "15",
+      "species": "Umbrachoir lyticus",
+      "name": "Black Choir Virus",
+      "profile": "umbrachoir_lyticus.md",
+      "x": 1380,
+      "y": 693,
+      "latinY": 968
+    }
+  ],
+  "relationships": [
+    {
+      "id": "E01",
+      "from": "01",
+      "to": "03",
+      "type": "benefit",
+      "label": "Carbon byproducts",
+      "path": "M300 115 C380 20 535 18 660 95",
+      "x": 445,
+      "y": 45
+    },
+    {
+      "id": "E02",
+      "from": "03",
+      "to": "01",
+      "type": "benefit",
+      "label": "Sugars",
+      "path": "M620 245 C545 300 390 310 310 255",
+      "x": 446,
+      "y": 293
+    },
+    {
+      "id": "E03",
+      "from": "03",
+      "to": "04",
+      "type": "benefit",
+      "label": "Repair fuel",
+      "path": "M820 180 C865 145 900 145 960 180",
+      "x": 894,
+      "y": 155
+    },
+    {
+      "id": "E04",
+      "from": "04",
+      "to": "07",
+      "type": "benefit",
+      "label": "Patches gel",
+      "path": "M1000 280 C915 342 700 345 565 400",
+      "x": 745,
+      "y": 347
+    },
+    {
+      "id": "E05",
+      "from": "07",
+      "to": "04",
+      "type": "benefit",
+      "label": "Shelter",
+      "path": "M600 430 C720 380 905 375 1020 300",
+      "x": 900,
+      "y": 374
+    },
+    {
+      "id": "E06",
+      "from": "01",
+      "to": "06",
+      "type": "benefit",
+      "label": "Chemical energy",
+      "path": "M175 290 C155 338 150 350 150 400",
+      "x": 150,
+      "y": 345
+    },
+    {
+      "id": "E07",
+      "from": "06",
+      "to": "01",
+      "type": "benefit",
+      "label": "Mineral footholds",
+      "path": "M290 420 C335 370 350 320 310 290",
+      "x": 333,
+      "y": 355
+    },
+    {
+      "id": "E08",
+      "from": "05",
+      "to": "03",
+      "type": "benefit",
+      "label": "Trace salts",
+      "path": "M1300 120 C1180 5 945 10 810 90",
+      "x": 1110,
+      "y": 38
+    },
+    {
+      "id": "E09",
+      "from": "03",
+      "to": "08",
+      "type": "benefit",
+      "label": "Sugars",
+      "path": "M740 270 C710 315 690 390 735 435",
+      "x": 706,
+      "y": 370
+    },
+    {
+      "id": "E10",
+      "from": "08",
+      "to": "09",
+      "type": "benefit",
+      "label": "Safe-route cues",
+      "path": "M895 485 C932 450 966 450 1005 483",
+      "x": 950,
+      "y": 465
+    },
+    {
+      "id": "E11",
+      "from": "09",
+      "to": "04",
+      "type": "benefit",
+      "label": "Disperses recruits",
+      "path": "M1150 480 C1240 395 1235 315 1160 260",
+      "x": 1210,
+      "y": 354
+    },
+    {
+      "id": "E12",
+      "from": "13",
+      "to": "03",
+      "type": "benefit",
+      "label": "Recycled carbon",
+      "path": "M705 750 C655 650 650 390 677 267",
+      "x": 655,
+      "y": 526
+    },
+    {
+      "id": "E13",
+      "from": "14",
+      "to": "06",
+      "type": "benefit",
+      "label": "Shed silica",
+      "path": "M980 870 C895 1020 50 1020 45 820 C28 720 38 630 95 555",
+      "x": 55,
+      "y": 650
+    },
+    {
+      "id": "E14",
+      "from": "12",
+      "to": "13",
+      "type": "predation",
+      "label": "Grazes living tips",
+      "path": "M625 825 C651 812 674 810 700 800",
+      "x": 657,
+      "y": 810
+    },
+    {
+      "id": "E15",
+      "from": "10",
+      "to": "04",
+      "type": "predation",
+      "label": "Consumes repair cells",
+      "path": "M1340 400 C1320 300 1220 240 1190 225",
+      "x": 1270,
+      "y": 283
+    },
+    {
+      "id": "E16",
+      "from": "12",
+      "to": "11",
+      "type": "parasitism",
+      "label": "Palp grazing",
+      "path": "M395 790 C359 754 326 750 290 782",
+      "x": 341,
+      "y": 755
+    },
+    {
+      "id": "E17",
+      "from": "10",
+      "to": "07",
+      "type": "parasitism",
+      "label": "Steals gel",
+      "path": "M1270 565 C1110 725 760 685 590 570",
+      "x": 921,
+      "y": 678
+    },
+    {
+      "id": "E18",
+      "from": "02",
+      "to": "01",
+      "type": "infection",
+      "label": "Infects harvester",
+      "path": "M435 195 C397 185 360 190 325 205",
+      "x": 376,
+      "y": 188
+    },
+    {
+      "id": "E19",
+      "from": "15",
+      "to": "14",
+      "type": "infection",
+      "label": "Infects Graveglass",
+      "path": "M1300 810 C1250 770 1210 768 1158 790",
+      "x": 1231,
+      "y": 775
+    },
+    {
+      "id": "E20",
+      "from": "11",
+      "to": "09",
+      "type": "transport",
+      "label": "Launch turbulence",
+      "path": "M277 719 C430 590 785 575 1015 607",
+      "x": 805,
+      "y": 605
+    }
+  ]
+}

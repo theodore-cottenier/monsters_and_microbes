@@ -30,7 +30,7 @@
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
-This is the compact core around *Hydrosaltator amictus*: matrix, sulfur energy, and carbon refinement. Other cryptids in the vent are peripheral visitors, recyclers, parasites, or viruses rather than permanent members of its immediate cluster.
+These are the tick’s closest associates, within a wider food web whose members also exchange resources directly. Harvesters trade with refiners and mineral masons; gardeners receive sugar and dispersal services; grazers and viruses act on other microbes. The tick is one resident of this network.
 
 ## Social Reactions
 
@@ -52,3 +52,32 @@ When *Hydrosaltator amictus* encounters another colony or a fresh patch of matri
 - Active Acid: 15%
 - Liquid Sulfur Solvent: 8%
 - Dissolved H2S Gas: 2%
+
+*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
+
+## Detailed behavior
+
+Hydrosaltator alternates between slow surface patrols and brief hydraulic leaps. During a patrol, the palps sweep ahead of the feet to sample gel, clear grit from the face valves, and locate productive harvester pockets. It pauses to distribute symbiont products through the matrix, then follows stable chemical gradients and the Lantern Veil's signals toward the next feeding site.
+
+A disturbance prompts the legs to brace before the pressure system drives a leap. After landing, the animal checks its footing and grooms exposed valves before resuming exchange with its companions. Neighbor encounters follow the established ignore, mate, or rob-matrix responses; theft involves gripping a loose sheet and relocating it in successive pulls. Below 40C it retracts its appendages and enters the tun state. Warming above 60C triggers gradual reopening, with sensory activity returning before full locomotion.
+
+## Detailed anatomy
+
+**Body wall and coat.** The 0.3 mm body is a compact, broad oval with a flexible regenerative outer shell. Dense fine projections hold a thin film of surrounding matrix and symbionts, producing the fuzzy outline and mottled charcoal, orange, yellow, olive, and teal surface. Sparse luminous speckles interrupt this coating. Flexible ventral folds let the limbs withdraw without tearing the shell.
+
+**Head and sensory apparatus.** Paired mustache-like palps carry numerous fine contact hairs. Their flexible bases sweep a broad arc across the face, bringing trapped grit away from the valve openings. Three light-sensitive spots provide coarse orientation rather than detailed vision. A small fixed brain integrates these inputs with limb contact and pressure signals.
+
+**Hydraulic locomotor system.** A pressure-sensitive inner bladder occupies much of the central body. Supporting bands constrain its expansion, while valves direct working fluid toward the articulated limbs. Long legs fold beneath the body at rest; flexible joints and gripping tips provide leverage during scuttling and a stable brace before a leap. Controlled release of pressure allows the limbs to fold again.
+
+**Exchange and nozzle structures.** Sheltered surface pockets bring feeding tissues into contact with the symbiotic matrix. Separate face-valve passages guide the established chemical mixtures toward the conical pre-wash and blast-vent outlets. Reinforced outlet rims resist abrasion, while nearby grooming hairs keep deposits from obstructing them.
+
+**Cell allocation and tun form.** The established 1,400-cell body is partially eutelic: brain and valve components retain a fixed organization while the outer shell can regenerate. In the tun, the bladder relaxes, limbs and palps tuck inward, and the body wall closes over vulnerable openings, leaving a compact protected form.
+
+## Relationships in the wider food web
+
+The following direct links appear in the [illustrated community food web](hydrosalt-cryptids/README.md). Exchange arrows run from provider to recipient; predation, parasitism, and infection run from attacker to target.
+
+| Edge | From | To | Interaction |
+| --- | --- | --- | --- |
+| E16 | *Palpophaga pilosa* | *Hydrosaltator amictus* | Palp grazing (parasitism) |
+| E20 | *Hydrosaltator amictus* | *Aerosporia leaperi* | Launch turbulence (transport) |
