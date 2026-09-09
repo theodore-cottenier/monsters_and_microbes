@@ -1,11 +1,11 @@
 # Companion Profile: *Saccharoplasma lentus*
 
 **Common name:** Sugar-Silk Protist  
-**Role:** Protocist refiner for *Hydrosaltator amictus*
+**Role:** Matrix creator and protist refiner for *Hydrosaltator amictus*
 
 ## Scientific summary
 
-*Saccharoplasma lentus* is a slow-moving protocist that refines complex carbon compounds into syrupy, transportable sugars. It lives in the cooler folds of the host matrix, where its threadlike secretions connect harvester pockets to feeding cells.
+*Saccharoplasma lentus* is a slow-moving protist that refines complex carbon compounds into syrupy, transportable sugars. It lives in the cooler folds of the host matrix, where its threadlike secretions connect harvester pockets to feeding cells.
 
 - **Preferred zone:** 50-72 degrees C matrix folds
 - **Form:** Translucent sacs with trailing silk-like filaments
@@ -15,6 +15,10 @@
 The Sugar-Silk Protist is famously unhurried: a single refinement cycle can take several minutes, which is considered “punctual” by vent standards.
 
 *The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
+
+## Core symbiosis
+
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
 
 ## Detailed behavior
 
@@ -30,7 +34,7 @@ Movement is a slow cycle of extending the leading edge, attaching, and drawing t
 
 **Sugar reservoirs.** Clear internal pockets collect soluble products before release. Transport sites regulate their passage across the outer membrane, preventing every refinement cycle from emptying at once. Water-regulating compartments help maintain the sac's shape as the concentration of stored sugars changes.
 
-**Silk secretion apparatus.** Rows of secretion vesicles feed narrow outlets at the trailing pole. The resulting hydrated polymer filaments adhere to gel and carry sugar-rich coatings along their surfaces. These are extracellular transport threads, rather than hollow blood vessels, and can be renewed where movement stretches or breaks them.
+**Matrix and silk secretion apparatus.** Sugar-Silk secretes the hydrated gel and reinforcing threads that create the matrix housing.  Rows of secretion vesicles feed narrow outlets at the trailing pole. The resulting hydrated polymer filaments adhere to gel and carry sugar-rich coatings along their surfaces. These are extracellular transport threads, rather than hollow blood vessels, and can be renewed where movement stretches or breaks them.
 
 **Attachment and budding.** Temporary adhesive patches beneath the sac provide traction. A developing bud forms along a side fold, receiving living contents and reserves before a narrow connecting neck closes. Short initial threads help the daughter remain near a useful feeding pocket.
 
@@ -46,3 +50,6 @@ The following direct links appear in the [illustrated community food web](hydros
 | E08 | *Cryovora brineveil* | *Saccharoplasma lentus* | Trace salts (benefit) |
 | E09 | *Saccharoplasma lentus* | *Luminocystis ventor* | Sugars (benefit) |
 | E12 | *Mycocladus sulfuris* | *Saccharoplasma lentus* | Recycled carbon (benefit) |
+| E21 | Sugar-Silk | Matrix Host | Creates matrix (benefit) |
+| E24 | Sugar-Silk | Volcanic Spring Tick | Sugars and housing (benefit) |
+| E25 | Volcanic Spring Tick | Sugar-Silk | Protection and distribution (benefit) |

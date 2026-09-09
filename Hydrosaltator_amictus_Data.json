@@ -4,7 +4,9 @@
         "Volcanic Spring Tick",
         "Sulfur Spring Tick"
     ],
-    "Size": "0.3mm",
+    "Size": "1 mm",
+    "Normal Jump Distance": "About 37.5 mm (3.75 cm)",
+    "Normal Jump Body Lengths": 37.5,
     "Total Cell Count": 1400,
     "Appearance": {
         "Body": "Elongated fuzzy, glowing body with a pressure-sensitive inner bladder",
@@ -20,7 +22,7 @@
     "Revival Trigger": "Above 60C",
     "Lethal Limit": "Above 110C",
     "Symbionts": {
-        "Matrix Slime": "Gelatinicollum vulcanum",
+        "Matrix Slime": "extracellular matrix created by Saccharoplasma lentus (not a species)",
         "Archaea Harvester": "Sulfuribacillus thermophilus (Emberspit Microbe)",
         "Protocist Refiner": "Saccharoplasma lentus (Sugar-Silk Protist)"
     },
@@ -32,7 +34,7 @@
     "Social Reactions": {
         "Ignore": "Passes low-value neighbors without signal exchange.",
         "Mate": "Compatible colonies braid valve filaments and trade shell-building cells for one vent cycle.",
-        "Rob Matrix Housing": "Peels away and relocates a section of Gelatinicollum vulcanum when the matrix is under-defended."
+        "Rob Matrix Housing": "Peels away and relocates a section of extracellular matrix created by Saccharoplasma lentus (not a species) when the matrix is under-defended."
     },
     "Spray Proportions": {
         "Conical Pre-Wash Nozzle": {
@@ -47,5 +49,15 @@
             "Liquid Sulfur Solvent": "8%",
             "Dissolved H2S Gas": "2%"
         }
+    },
+    "Core Symbiosis": {
+        "Partners": [
+            "Saccharoplasma lentus",
+            "Sulfuribacillus thermophilus",
+            "Hydrosaltator amictus"
+        ],
+        "Relationship": "Three-way symbiosis",
+        "Matrix Creator": "Saccharoplasma lentus",
+        "Matrix Is Species": false
     }
 }

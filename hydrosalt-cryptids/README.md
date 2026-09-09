@@ -1,8 +1,8 @@
 # HydroSalts: a living vent food web
 
-This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is one mobile resident. The illustrated map includes **all 15 vent organisms**, with **20 direct relationships; 18 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
+This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is one mobile resident. The illustrated map includes **14 vent organisms and one matrix structure**, with **25 direct relationships; 19 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
 
-![Illustrated HydroSalts vent food web with fifteen organisms and colored relationship arrows](symbiosis_map.png)
+![Illustrated HydroSalts vent food web with fourteen organisms and a Sugar-Silk-produced matrix and colored relationship arrows](symbiosis_map.png)
 
 [Open the full PNG diagram](symbiosis_map.png) or the [scalable SVG diagram](symbiosis_map.svg). Labels link to organism profiles when the SVG is opened directly in a compatible viewer. The artwork shows hot sulfur channels on the left, living gel terraces in the middle, and cold brine and abandoned fissures on the right. Organisms are enlarged independently and are not drawn to a common scale.
 
@@ -14,11 +14,11 @@ This speculative hydrothermal-vent community is a web of exchanges among microbe
 - **Purple, dotted — viral infection:** virus → infected organism.
 - **Blue, solid — commensal transport:** carrier or source of turbulence → beneficiary.
 
-Arrowheads show direction. Edge identifiers **E01–E20** match the table below; colors, line patterns, identifiers, and text descriptions work together so color is not the only cue. Predation here means consuming living cells or filament tips. Gel theft and persistent palp grazing remain parasitism; viral infection has its own category.
+Arrowheads show direction. Edge identifiers **E01–E25** match the table below; colors, line patterns, identifiers, and text descriptions work together so color is not the only cue. Predation here means consuming living cells or filament tips. Gel theft and persistent palp grazing remain parasitism; viral infection has its own category.
 
-## Organisms
+## Organisms and matrix structure
 
-| No. | Organism | Common name |
+| No. | Organism or structure | Common name |
 | --- | --- | --- |
 | 01 | [*Sulfuribacillus thermophilus*](../Sulfuribacillus_thermophilus_Emberspit_Microbe.md) | Emberspit |
 | 02 | [*Sulfurivora capsida*](sulfurivora_capsida.md) | Emberspit Phage |
@@ -26,7 +26,7 @@ Arrowheads show direction. Edge identifiers **E01–E20** match the table below;
 | 04 | [*Gelatinocella wardii*](gelatinocella_wardii.md) | Matrix Gardener |
 | 05 | [*Cryovora brineveil*](cryovora_brineveil.md) | Cold Veil |
 | 06 | [*Ferrucoccus scuttans*](ferrucoccus_scuttans.md) | Ironback Mason |
-| 07 | [*Gelatinicollum vulcanum*](gelatinicollum_vulcanum.md) | Matrix Host |
+| 07 | [Sugar-Silk-produced matrix](gelatinicollum_vulcanum.md) | Matrix Host |
 | 08 | [*Luminocystis ventor*](luminocystis_ventor.md) | Lantern Veil |
 | 09 | [*Aerosporia leaperi*](aerosporia_leaperi.md) | Leapspore |
 | 10 | [*Parasitovibrio hijackii*](parasitovibrio_hijackii.md) | Matrix Jackal |
@@ -62,6 +62,18 @@ These are in-universe relationships, including newly developed interactions for 
 | E18 | Emberspit Phage | Emberspit | Viral infection | Infects harvester |
 | E19 | Black Choir Virus | Graveglass | Viral infection | Infects Graveglass |
 | E20 | Volcanic Spring Tick | Leapspore | Commensal transport | Launch turbulence |
+
+| E21 | Sugar-Silk | Matrix Host | Beneficial exchange | Creates matrix |
+| E22 | Emberspit | Volcanic Spring Tick | Beneficial exchange | Chemical energy |
+| E23 | Volcanic Spring Tick | Emberspit | Beneficial exchange | Protection and distribution |
+| E24 | Sugar-Silk | Volcanic Spring Tick | Beneficial exchange | Sugars and housing |
+| E25 | Volcanic Spring Tick | Sugar-Silk | Beneficial exchange | Protection and distribution |
+
+Node 07 is a structure created by Sugar-Silk. Shelter and repair arrows describe habitat services; gel theft harms the organisms using that housing.
+
+## Core symbiosis
+
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
 
 ## Community dynamics
 

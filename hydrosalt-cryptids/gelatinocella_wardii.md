@@ -17,7 +17,7 @@ A cluster of translucent oval cells linked by broad ribbon-like braces. This cry
 
 ## Symbiotic relationships
 
-Repairs tears in Gelatinicollum vulcanum and shelters the host's young; receives sugars from Saccharoplasma.
+Repairs tears in Sugar-Silk-produced matrix and shelters the host's young; receives sugars from Saccharoplasma.
 
 *The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
@@ -33,7 +33,7 @@ Sugar deliveries from Saccharoplasma support rapid repair after a host leap or g
 
 ## Detailed anatomy
 
-**Repair cells.** Translucent oval cells form a loose, connected cluster. Each cell has a resilient membrane, a central nuclear compartment, and conspicuous vesicles containing matrix-binding secretions. The outer coating adheres to Gelatinicollum's gel without replacing the larger organism's living sheet.
+**Repair cells.** Translucent oval cells form a loose, connected cluster. Each cell has a resilient membrane, a central nuclear compartment, and conspicuous vesicles containing matrix-binding secretions. The outer coating adheres to the gel produced by Sugar-Silk without replacing its existing structure.
 
 **Ribbon braces.** Broad extracellular ribbons link cells across gaps. A fibrous inner layer resists pulling, while a softer coating bonds to the existing matrix. Their flat shape spreads force over a wider area than a thin thread, reducing the chance that a fresh patch will cut through its own anchor points.
 
@@ -60,7 +60,7 @@ The following direct links appear in the [illustrated community food web](README
 | Edge | From | To | Interaction |
 | --- | --- | --- | --- |
 | E03 | *Saccharoplasma lentus* | *Gelatinocella wardii* | Repair fuel (benefit) |
-| E04 | *Gelatinocella wardii* | *Gelatinicollum vulcanum* | Patches gel (benefit) |
-| E05 | *Gelatinicollum vulcanum* | *Gelatinocella wardii* | Shelter (benefit) |
+| E04 | *Gelatinocella wardii* | Sugar-Silk-produced matrix | Patches gel (benefit) |
+| E05 | Sugar-Silk-produced matrix | *Gelatinocella wardii* | Shelter (benefit) |
 | E11 | *Aerosporia leaperi* | *Gelatinocella wardii* | Disperses recruits (benefit) |
 | E15 | *Parasitovibrio hijackii* | *Gelatinocella wardii* | Consumes repair cells (predation) |

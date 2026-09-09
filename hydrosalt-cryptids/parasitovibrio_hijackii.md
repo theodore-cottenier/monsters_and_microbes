@@ -7,7 +7,7 @@
 
 A dark hooked rod with a sucker collar and a backpack-like brood pouch. This cryptid shares the same deep-sea hydrothermal-vent ecosystem as *Hydrosaltator amictus*.
 
-- **Habitat:** the underside of Gelatinicollum vulcanum sheets
+- **Habitat:** the underside of Sugar-Silk-produced matrix sheets
 - **Type:** Parasite
 - **Role:** Matrix-housing thief
 
@@ -60,4 +60,4 @@ The following direct links appear in the [illustrated community food web](README
 | Edge | From | To | Interaction |
 | --- | --- | --- | --- |
 | E15 | *Parasitovibrio hijackii* | *Gelatinocella wardii* | Consumes repair cells (predation) |
-| E17 | *Parasitovibrio hijackii* | *Gelatinicollum vulcanum* | Steals gel (parasitism) |
+| E17 | *Parasitovibrio hijackii* | Sugar-Silk-produced matrix | Steals gel (parasitism) |

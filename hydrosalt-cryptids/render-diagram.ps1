@@ -58,7 +58,7 @@ foreach ($edge in $data.relationships) {
 }
 foreach ($node in $data.nodes) {
     Draw-Text ($node.id + ' ' + $node.name) $node.x $node.y 18 '#292d2a' 'Bold' $true
-    Draw-Text $node.species $node.x $node.latinY 15 '#292d2a' 'Italic' $true
+    Draw-Text $(if ($node.kind -eq 'structure') { $node.caption } else { $node.species }) $node.x $node.latinY 15 '#292d2a' 'Italic' $true
 }
 $g.TranslateTransform(0,-82)
 $brush = New-Object System.Drawing.SolidBrush($paper)
@@ -75,8 +75,8 @@ for ($j=0; $j -lt 5; $j++) {
     Draw-Text $labels[$j] ($x+140) 1143 16
     $p.Dispose()
 }
-Draw-Text 'Exchange: provider to recipient. Predation / parasitism / infection: attacker to target. E01-E20: see relationship table.' 768 1176 16
-Draw-Text 'Speculative ecosystem / Organisms enlarged, not to scale / 15 organisms, 20 relationships, 18 links independent of the tick' 768 1202 14 '#292d2a' 'Italic'
+Draw-Text 'Exchange: provider to recipient. Predation / parasitism / infection: attacker to target. E01-E25: see relationship table.' 768 1176 16
+Draw-Text 'Speculative ecosystem / Organisms enlarged, not to scale / 14 organisms + matrix, 25 relationships, 19 links independent of the tick' 768 1202 14 '#292d2a' 'Italic'
 $output = Join-Path $PSScriptRoot 'symbiosis_map.png'
 $bitmap.Save($output,[System.Drawing.Imaging.ImageFormat]::Png)
 $art.Dispose(); $brush.Dispose(); $line.Dispose(); $g.Dispose(); $bitmap.Dispose()

@@ -16,6 +16,10 @@ The Emberspit colony is recognized by orange flecks in the matrix and a habit of
 
 *The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
+## Core symbiosis
+
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
+
 ## Detailed behavior
 
 Emberspit forms orange films along the warmest protected channels, where flowing vent water continually renews dissolved sulfur compounds. Cells nearest the water capture those resources, while deeper cells share the shelter and exchange stabilized chemical packages with the host community. The film expands along favorable flow paths instead of pursuing food as individual hunters.
@@ -30,7 +34,7 @@ Host movement compresses the film and dislodges its characteristic sulfur-rich b
 
 **Inclusions and exported packages.** Sulfur-rich inclusions and carbon reserves appear as small internal granules. Exported chemical packages collect in the film before transfer to partners; they are products of metabolism, not miniature organs. The characteristic bubbles accumulate in extracellular recesses and are released when the matrix flexes.
 
-**Orange biofilm.** A hydrated extracellular mesh binds rods to one another and captures fine mineral particles, giving the colony its orange flecks. Open microchannels let fresh water reach active surfaces. The deepest layers anchor to Gelatinicollum's housing, while exposed edges remain soft enough to shed dispersing clumps.
+**Orange biofilm.** A hydrated extracellular mesh binds rods to one another and captures fine mineral particles, giving the colony its orange flecks. Open microchannels let fresh water reach active surfaces. The deepest layers anchor to the housing produced by Sugar-Silk, while exposed edges remain soft enough to shed dispersing clumps.
 
 **Division sites.** A constricting midcell region separates a growing rod into daughter cells. Newly formed surfaces acquire their protective coating before joining the surrounding mesh, preserving the continuity of the film as the population expands.
 
@@ -45,3 +49,5 @@ The following direct links appear in the [illustrated community food web](hydros
 | E06 | *Sulfuribacillus thermophilus* | *Ferrucoccus scuttans* | Chemical energy (benefit) |
 | E07 | *Ferrucoccus scuttans* | *Sulfuribacillus thermophilus* | Mineral footholds (benefit) |
 | E18 | *Sulfurivora capsida* | *Sulfuribacillus thermophilus* | Infects harvester (infection) |
+| E22 | Emberspit | Volcanic Spring Tick | Chemical energy (benefit) |
+| E23 | Volcanic Spring Tick | Emberspit | Protection and distribution (benefit) |

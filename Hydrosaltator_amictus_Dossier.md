@@ -5,7 +5,8 @@
 ## Profile
 - **Scientific Name:** Hydrosaltator amictus
 - **Common Names:** Volcanic Spring Tick, Sulfur Spring Tick
-- **Size:** 0.3mm
+- **Size:** 1 mm
+- **Normal jump distance:** About 37.5 mm (3.75 cm), or 37.5 body lengths
 - **Cell Count:** 1400 cells
 
 ## Appearance and Locomotion
@@ -26,7 +27,7 @@
 - **Lethal Limit:** Above 110C
 
 ## Symbiotic Matrix Community
-1. **Larger Matrix Host:** *Gelatinicollum vulcanum*
+1. **Matrix housing:** Extracellular gel created by the Sugar-Silk Protist; not a separate species
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
@@ -38,7 +39,7 @@ When *Hydrosaltator amictus* encounters another colony or a fresh patch of matri
 
 - **Ignore:** Low-value neighbors are passed without signal exchange; the colony saves its attention for hotter chemistry.
 - **Mate:** Compatible colonies braid valve filaments and trade shell-building cells for one vent cycle.
-- **Rob Matrix Housing:** If the host matrix is under-defended, the colony peels away a section of *Gelatinicollum vulcanum* and relocates it. In field notes, this is described as interior decorating with extremely poor manners.
+- **Rob Matrix Housing:** If the host matrix is under-defended, the colony peels away a section of Sugar-Silk-produced matrix and relocates it. In field notes, this is described as interior decorating with extremely poor manners.
 
 ## Chemical Nozzle Configurations
 ### Conical Pre-Wash
@@ -55,6 +56,10 @@ When *Hydrosaltator amictus* encounters another colony or a fresh patch of matri
 
 *The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
+## Core symbiosis
+
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
+
 ## Detailed behavior
 
 Hydrosaltator alternates between slow surface patrols and brief hydraulic leaps. During a patrol, the palps sweep ahead of the feet to sample gel, clear grit from the face valves, and locate productive harvester pockets. It pauses to distribute symbiont products through the matrix, then follows stable chemical gradients and the Lantern Veil's signals toward the next feeding site.
@@ -63,7 +68,7 @@ A disturbance prompts the legs to brace before the pressure system drives a leap
 
 ## Detailed anatomy
 
-**Body wall and coat.** The 0.3 mm body is a compact, broad oval with a flexible regenerative outer shell. Dense fine projections hold a thin film of surrounding matrix and symbionts, producing the fuzzy outline and mottled charcoal, orange, yellow, olive, and teal surface. Sparse luminous speckles interrupt this coating. Flexible ventral folds let the limbs withdraw without tearing the shell.
+**Body wall and coat.** The 1 mm body is a compact, broad oval with a flexible regenerative outer shell. Dense fine projections hold a thin film of surrounding matrix and symbionts, producing the fuzzy outline and mottled charcoal, orange, yellow, olive, and teal surface. Sparse luminous speckles interrupt this coating. Flexible ventral folds let the limbs withdraw without tearing the shell.
 
 **Head and sensory apparatus.** Paired mustache-like palps carry numerous fine contact hairs. Their flexible bases sweep a broad arc across the face, bringing trapped grit away from the valve openings. Three light-sensitive spots provide coarse orientation rather than detailed vision. A small fixed brain integrates these inputs with limb contact and pressure signals.
 
@@ -81,3 +86,7 @@ The following direct links appear in the [illustrated community food web](hydros
 | --- | --- | --- | --- |
 | E16 | *Palpophaga pilosa* | *Hydrosaltator amictus* | Palp grazing (parasitism) |
 | E20 | *Hydrosaltator amictus* | *Aerosporia leaperi* | Launch turbulence (transport) |
+| E22 | Emberspit | Volcanic Spring Tick | Chemical energy (benefit) |
+| E23 | Volcanic Spring Tick | Emberspit | Protection and distribution (benefit) |
+| E24 | Sugar-Silk | Volcanic Spring Tick | Sugars and housing (benefit) |
+| E25 | Volcanic Spring Tick | Sugar-Silk | Protection and distribution (benefit) |

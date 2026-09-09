@@ -2,9 +2,13 @@
 
 The final diagram combines new raster habitat artwork from the built-in image-generation tool with an editable SVG annotation layer. All labels, arrow directions, edge identifiers, and legend entries are defined explicitly in the SVG and relationship data. The existing microbe illustrations informed the ivory-paper, engraved-line, translucent-watercolor style. Local reference-image reads failed, so the final habitat artwork was generated from the inspected style and written anatomical descriptions.
 
-An initial generated diagram was rejected because several arrows had incorrect endpoints. The delivered SVG uses a clean artwork generation and deterministic arrows instead. All 15 vent organisms are illustrated. The unrelated Speculomyces field-guide taxa are outside this habitat.
+An initial generated diagram was rejected because several arrows had incorrect endpoints. The delivered SVG uses a clean artwork generation and deterministic arrows instead. Fourteen vent organisms and the matrix structure are illustrated. The unrelated Speculomyces field-guide taxa are outside this habitat.
 
-## Final artwork prompt
+## Canon correction
+
+The original artwork prompt below is retained as production history. Its classification of the matrix as an organism was incorrect. The current annotations identify 14 organisms plus matrix housing created by Sugar-Silk, and 25 relationships including the three-way symbiosis between Sugar-Silk, Emberspit, and the tick.
+
+## Original artwork prompt (historical)
 
 Create a NEW landscape natural-history watercolor illustration board, 1536 by 1024 composition. Warm ivory paper, exquisite engraved ink outlines, realistic translucent microscopic tissues, restrained watercolor, Victorian scientific atlas quality. NO TEXT, NO NUMBERS, NO ARROWS, NO BORDER. This is artwork for a diagram whose precise labels and arrows will be typeset separately. Leave generous ivory whitespace between the subjects and at top 90 pixels and bottom 110 pixels.
 Paint a faint continuous panoramic underwater hydrothermal vent habitat in the background: smoky black chimney far left edge, mineral terraces and translucent gel in the central lower background, blue brine curtain far right, dark abandoned fissures lower right. Background light and understated so diagram arrows will remain readable.

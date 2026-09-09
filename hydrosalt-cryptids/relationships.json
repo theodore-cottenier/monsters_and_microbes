@@ -1,5 +1,5 @@
 {
-  "description": "Speculative HydroSalts vent community. Exchange and transport arrows point from provider to recipient; predation, parasitism and infection arrows point from attacker to target.",
+  "description": "Speculative HydroSalts vent community. Exchange and transport arrows point from provider to recipient; predation, parasitism and infection arrows point from attacker to target. Node 07 is extracellular housing created by node 03, not a species. Nodes 01, 03, and 11 form a three-way symbiosis. Gel theft targets housing and harms its residents.",
   "nodes": [
     {
       "id": "01",
@@ -57,12 +57,15 @@
     },
     {
       "id": "07",
-      "species": "Gelatinicollum vulcanum",
+      "species": null,
       "name": "Matrix Host",
       "profile": "gelatinicollum_vulcanum.md",
       "x": 490,
       "y": 365,
-      "latinY": 658
+      "latinY": 658,
+      "kind": "structure",
+      "creator": "03",
+      "caption": "Created by Sugar-Silk"
     },
     {
       "id": "08",
@@ -337,6 +340,56 @@
       "path": "M277 719 C430 590 785 575 1015 607",
       "x": 805,
       "y": 605
+    },
+    {
+      "id": "E21",
+      "from": "03",
+      "to": "07",
+      "type": "benefit",
+      "label": "Creates matrix",
+      "path": "M700 280 C630 315 575 335 530 405",
+      "x": 601,
+      "y": 323
+    },
+    {
+      "id": "E22",
+      "from": "01",
+      "to": "11",
+      "type": "benefit",
+      "label": "Chemical energy",
+      "path": "M105 270 C10 370 10 620 105 735",
+      "x": 32,
+      "y": 458
+    },
+    {
+      "id": "E23",
+      "from": "11",
+      "to": "01",
+      "type": "benefit",
+      "label": "Protection and distribution",
+      "path": "M130 740 C65 615 65 385 145 285",
+      "x": 83,
+      "y": 594
+    },
+    {
+      "id": "E24",
+      "from": "03",
+      "to": "11",
+      "type": "benefit",
+      "label": "Sugars and housing",
+      "path": "M640 265 C380 335 340 615 260 735",
+      "x": 362,
+      "y": 478
+    },
+    {
+      "id": "E25",
+      "from": "11",
+      "to": "03",
+      "type": "benefit",
+      "label": "Protection and distribution",
+      "path": "M280 750 C395 640 425 345 660 280",
+      "x": 425,
+      "y": 564
     }
   ]
 }
