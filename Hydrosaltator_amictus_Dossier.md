@@ -27,11 +27,11 @@
 - **Lethal Limit:** Above 110C
 
 ## Symbiotic Matrix Community
-1. **Matrix housing:** Extracellular gel created by the Sugar-Silk Protist; not a separate species
+1. **Matrix housing:** Extracellular gel created by the Sugar-Silk Protist and attached to the tick; not a separate species
 2. **Primary Harvester:** [*Sulfuribacillus thermophilus* (Emberspit Microbe)](Sulfuribacillus_thermophilus_Emberspit_Microbe.md)
 3. **Secondary Refiner:** [*Saccharoplasma lentus* (Sugar-Silk Protist)](Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
-These are the tick’s closest associates, within a wider food web whose members also exchange resources directly. Harvesters trade with refiners and mineral masons; gardeners receive sugar and dispersal services; grazers and viruses act on other microbes. The tick is one resident of this network.
+These are the tick’s closest associates, within a wider food web whose members also exchange resources directly. Harvesters trade with refiners and mineral masons; Ironback Mason anchors Sulfur Lace and Graveglass films; gardeners receive sugar and dispersal services; grazers, viruses, and the Matrix Jackal act on community members. The tick is the mobile resident carrying the housing.
 
 ## Social Reactions
 
@@ -90,3 +90,4 @@ The following direct links appear in the [illustrated community food web](hydros
 | E23 | Volcanic Spring Tick | Emberspit | Protection and distribution (benefit) |
 | E24 | Sugar-Silk | Volcanic Spring Tick | Sugars and housing (benefit) |
 | E25 | Volcanic Spring Tick | Sugar-Silk | Protection and distribution (benefit) |
+| E30 | *Parasitovibrio hijackii* | *Hydrosaltator amictus* | Preys on tick (predation) |

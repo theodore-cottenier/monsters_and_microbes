@@ -1,8 +1,8 @@
 # HydroSalts: a living vent food web
 
-This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is one mobile resident. The illustrated map includes **14 vent organisms and one matrix structure**, with **25 direct relationships; 19 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
+This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is the mobile animal carrying its Sugar-Silk-produced matrix housing. The illustrated map includes **14 vent organisms and one attached matrix structure**, with **30 direct relationships; 24 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
 
-![Illustrated HydroSalts vent food web with fourteen organisms and a Sugar-Silk-produced matrix and colored relationship arrows](symbiosis_map.png)
+![Illustrated HydroSalts vent food web with fourteen organisms, tick-attached matrix housing, and colored relationship arrows](symbiosis_map.png)
 
 [Open the full PNG diagram](symbiosis_map.png) or the [scalable SVG diagram](symbiosis_map.svg). Labels link to organism profiles when the SVG is opened directly in a compatible viewer. The artwork shows hot sulfur channels on the left, living gel terraces in the middle, and cold brine and abandoned fissures on the right. Organisms are enlarged independently and are not drawn to a common scale.
 
@@ -14,7 +14,7 @@ This speculative hydrothermal-vent community is a web of exchanges among microbe
 - **Purple, dotted — viral infection:** virus → infected organism.
 - **Blue, solid — commensal transport:** carrier or source of turbulence → beneficiary.
 
-Arrowheads show direction. Edge identifiers **E01–E25** match the table below; colors, line patterns, identifiers, and text descriptions work together so color is not the only cue. Predation here means consuming living cells or filament tips. Gel theft and persistent palp grazing remain parasitism; viral infection has its own category.
+Arrowheads show direction. Edge identifiers **E01–E30** match the table below; colors, line patterns, identifiers, and text descriptions work together so color is not the only cue. Predation here means consuming living cells or filament tips. Gel theft and persistent palp grazing remain parasitism; viral infection has its own category.
 
 ## Organisms and matrix structure
 
@@ -26,7 +26,7 @@ Arrowheads show direction. Edge identifiers **E01–E25** match the table below;
 | 04 | [*Gelatinocella wardii*](gelatinocella_wardii.md) | Matrix Gardener |
 | 05 | [*Cryovora brineveil*](cryovora_brineveil.md) | Cold Veil |
 | 06 | [*Ferrucoccus scuttans*](ferrucoccus_scuttans.md) | Ironback Mason |
-| 07 | [Sugar-Silk-produced matrix](gelatinicollum_vulcanum.md) | Matrix Host |
+| 07 | [Tick-attached Sugar-Silk matrix](gelatinicollum_vulcanum.md) | Tick Matrix Housing |
 | 08 | [*Luminocystis ventor*](luminocystis_ventor.md) | Lantern Veil |
 | 09 | [*Aerosporia leaperi*](aerosporia_leaperi.md) | Leapspore |
 | 10 | [*Parasitovibrio hijackii*](parasitovibrio_hijackii.md) | Matrix Jackal |
@@ -35,6 +35,26 @@ Arrowheads show direction. Edge identifiers **E01–E25** match the table below;
 | 13 | [*Mycocladus sulfuris*](mycocladus_sulfuris.md) | Sulfur Lace |
 | 14 | [*Thanatovibrio umbracaris*](../Thanatovibrio_umbracaris_Dossier.md) | Graveglass |
 | 15 | [*Umbrachoir lyticus*](umbrachoir_lyticus.md) | Black Choir Virus |
+
+### What each one does
+
+| No. | Organism or structure | Main job |
+| --- | --- | --- |
+| 01 | Emberspit Microbe | Harvests sulfur chemistry and supplies energy and carbon byproducts |
+| 02 | Emberspit Phage | Infects and limits Emberspit cells |
+| 03 | Sugar-Silk Protist | Creates the tick's matrix housing and refines sugars |
+| 04 | Matrix Gardener | Repairs damaged matrix gel |
+| 05 | Cold Veil | Supplies trace salts to Sugar-Silk |
+| 06 | Ironback Mason | Builds mineral footholds and stabilizes sulfur films |
+| 07 | Tick Matrix Housing | Sugar-Silk-made shelter attached to the Volcanic Spring Tick |
+| 08 | Lantern Veil | Signals safe vent routes |
+| 09 | Leapspore | Carries recruits between terraces |
+| 10 | Matrix Jackal | Steals gel and preys on repair cells and the tick |
+| 11 | Volcanic Spring Tick | Moves through the vent, distributes symbiont products, and carries housing |
+| 12 | Moustache Mite | Grazes sulfur filaments and tick palps |
+| 13 | Sulfur Lace | Recycles spent sulfur films and supplies carbon |
+| 14 | Graveglass | Sheds silica and occupies old films |
+| 15 | Black Choir Virus | Infects Graveglass |
 
 ## Direct relationships
 
@@ -68,12 +88,17 @@ These are in-universe relationships, including newly developed interactions for 
 | E23 | Volcanic Spring Tick | Emberspit | Beneficial exchange | Protection and distribution |
 | E24 | Sugar-Silk | Volcanic Spring Tick | Beneficial exchange | Sugars and housing |
 | E25 | Volcanic Spring Tick | Sugar-Silk | Beneficial exchange | Protection and distribution |
+| E26 | Sulfur Lace | Ironback Mason | Beneficial exchange | Recycled mineral nutrients |
+| E27 | Ironback Mason | Sulfur Lace | Beneficial exchange | Mineral anchors |
+| E28 | Ironback Mason | Graveglass | Beneficial exchange | Stabilizes old films |
+| E29 | Graveglass | Ironback Mason | Beneficial exchange | Shed silica |
+| E30 | Matrix Jackal | Volcanic Spring Tick | Predation | Preys on tick |
 
-Node 07 is a structure created by Sugar-Silk. Shelter and repair arrows describe habitat services; gel theft harms the organisms using that housing.
+Node 07 is the Sugar-Silk-produced structure attached to the Volcanic Spring Tick. Shelter and repair arrows describe habitat services; gel theft harms the organisms using that housing. The Matrix Jackal's orange E30 arrow shows direct predation on the tick.
 
 ## Core symbiosis
 
-Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing directly on the tick and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
 
 ## Community dynamics
 
@@ -83,7 +108,7 @@ Sugar-Silk fuels Matrix Gardener repairs and Lantern Veil signals. Matrix Garden
 
 Two new feeding interactions add direct predation between community members. The Moustache Mite supplements its usual palp grazing by cropping **living Sulfur Lace tips**. The Matrix Jackal opportunistically consumes **Matrix Gardener repair cells** encountered while stealing gel. Limited grazing trims local growth; concentrated feeding can reduce recycling or delay housing repair.
 
-The cold fissure community connects to the warm terraces through shed material. Graveglass deposits and later sheds silica fragments that the Ironback Mason can collect after currents move them out of the cold zone. This material transfer does not require the heat-sensitive Graveglass to inhabit hot harvester channels. Black Choir Virus infects compatible Graveglass cells in old films; the similarly named virus and microbe remain distinct organisms. Emberspit Phage infects the sulfur harvester.
+The cold fissure community connects to the warm terraces through shed material. Graveglass deposits and later sheds silica fragments that the Ironback Mason can collect after currents move them out of the cold zone. Ironback also braces old Graveglass films and anchors Sulfur Lace branches, so the mason links the recycler communities. This material transfer does not require the heat-sensitive Graveglass to inhabit hot harvester channels. Black Choir Virus infects compatible Graveglass cells in old films; the similarly named virus and microbe remain distinct organisms. Emberspit Phage infects the sulfur harvester. The Matrix Jackal steals gel and can attack the tick directly.
 
 ## Diagram sources
 

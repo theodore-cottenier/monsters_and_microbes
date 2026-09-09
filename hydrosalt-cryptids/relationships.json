@@ -1,5 +1,5 @@
 {
-  "description": "Speculative HydroSalts vent community. Exchange and transport arrows point from provider to recipient; predation, parasitism and infection arrows point from attacker to target. Node 07 is extracellular housing created by node 03, not a species. Nodes 01, 03, and 11 form a three-way symbiosis. Gel theft targets housing and harms its residents.",
+  "description": "Speculative HydroSalts vent community. Exchange and transport arrows point from provider to recipient; predation, parasitism and infection arrows point from attacker to target. Node 07 is the extracellular matrix housing attached to the Volcanic Spring Tick, created by node 03, not a species. Nodes 01, 03, and 11 form a three-way symbiosis. The Matrix Jackal also preys on the tick.",
   "nodes": [
     {
       "id": "01",
@@ -58,14 +58,14 @@
     {
       "id": "07",
       "species": null,
-      "name": "Matrix Host",
+      "name": "Tick Matrix Housing",
       "profile": "gelatinicollum_vulcanum.md",
       "x": 490,
       "y": 365,
       "latinY": 658,
       "kind": "structure",
       "creator": "03",
-      "caption": "Created by Sugar-Silk"
+      "caption": "Attached to Tick; made by Sugar-Silk"
     },
     {
       "id": "08",
@@ -390,6 +390,56 @@
       "path": "M280 750 C395 640 425 345 660 280",
       "x": 425,
       "y": 564
+    },
+    {
+      "id": "E26",
+      "from": "13",
+      "to": "06",
+      "type": "benefit",
+      "label": "Recycled mineral nutrients",
+      "path": "M705 750 C560 700 360 560 290 450",
+      "x": 470,
+      "y": 645
+    },
+    {
+      "id": "E27",
+      "from": "06",
+      "to": "13",
+      "type": "benefit",
+      "label": "Mineral anchors",
+      "path": "M300 450 C420 540 600 650 760 760",
+      "x": 520,
+      "y": 610
+    },
+    {
+      "id": "E28",
+      "from": "06",
+      "to": "14",
+      "type": "benefit",
+      "label": "Stabilizes old films",
+      "path": "M300 470 C520 500 780 630 1010 760",
+      "x": 650,
+      "y": 565
+    },
+    {
+      "id": "E29",
+      "from": "14",
+      "to": "06",
+      "type": "benefit",
+      "label": "Shed silica",
+      "path": "M980 870 C800 780 520 590 280 500",
+      "x": 620,
+      "y": 700
+    },
+    {
+      "id": "E30",
+      "from": "10",
+      "to": "11",
+      "type": "predation",
+      "label": "Preys on tick",
+      "path": "M1270 565 C1050 650 650 790 280 790",
+      "x": 800,
+      "y": 700
     }
   ]
 }

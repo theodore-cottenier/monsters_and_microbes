@@ -30,7 +30,7 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 
 ## HydroSalts symbiotic community
 
-The illustrated vent food web connects **14 organisms and one matrix structure through 25 direct relationships**, with **19 links independent of the Volcanic Spring Tick**. Colored arrows distinguish beneficial exchange, predation, parasitism, viral infection, and commensal transport. The [community overview and relationship table](hydrosalt-cryptids/README.md) explain every arrow, including exchanges among harvesters, refiners, repair cells, recyclers, and the cold-fissure community. The [Matrix Host profile](hydrosalt-cryptids/gelatinicollum_vulcanum.md) describes the extracellular habitat created by Sugar-Silk.
+The illustrated vent food web connects **14 organisms and the tick-attached matrix housing through 30 direct relationships**, with **24 links independent of the Volcanic Spring Tick**. Colored arrows distinguish beneficial exchange, predation, parasitism, viral infection, and commensal transport. The [community overview and relationship table](hydrosalt-cryptids/README.md) explain every arrow, including exchanges among harvesters, refiners, repair cells, recyclers, and the cold-fissure community. The [Tick Matrix Housing profile](hydrosalt-cryptids/gelatinicollum_vulcanum.md) describes the extracellular habitat created by Sugar-Silk.
 
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
-# Matrix Host: Sugar-Silk-produced housing
+# Tick Matrix Housing: Sugar-Silk-produced housing
 
 **Type:** Extracellular structure, not a species
 **Creator:** [Sugar-Silk Protist (*Saccharoplasma lentus*)](../Saccharoplasma_lentus_Sugar_Silk_Protist.md)
 
-The Matrix Host is the gelatinous housing created by the Sugar-Silk Protist. The former species assignment, *Gelatinicollum vulcanum*, was incorrect; this file retains its old path for existing links.
+The Matrix Housing is the gelatinous shelter created by the Sugar-Silk Protist and carried on the Volcanic Spring Tick. It is not a separate species. The former species assignment, *Gelatinicollum vulcanum*, was incorrect; this file retains its old path for existing links.
 
 ## Formation and structure
 

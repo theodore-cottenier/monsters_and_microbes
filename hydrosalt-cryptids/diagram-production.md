@@ -6,7 +6,7 @@ An initial generated diagram was rejected because several arrows had incorrect e
 
 ## Canon correction
 
-The original artwork prompt below is retained as production history. Its classification of the matrix as an organism was incorrect. The current annotations identify 14 organisms plus matrix housing created by Sugar-Silk, and 25 relationships including the three-way symbiosis between Sugar-Silk, Emberspit, and the tick.
+The original artwork prompt below is retained as production history. Its classification of the matrix as an organism was incorrect. The current annotations identify 14 organisms plus matrix housing attached to the tick and created by Sugar-Silk, and 30 relationships including the three-way symbiosis, Ironback's recycler exchanges, and Matrix Jackal predation on the tick.
 
 ## Original artwork prompt (historical)
 
