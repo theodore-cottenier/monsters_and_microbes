@@ -7,7 +7,7 @@ The Matrix Housing is the gelatinous shelter created by the Sugar-Silk Protist a
 
 ## Formation and structure
 
-Sugar-Silk secretes hydrated gel and reinforcing silk-like threads that build sheets, folds, and sheltered channels. These provide space for the Sugar-Silk Protist, Emberspit Microbe, Volcanic Spring Tick, and neighboring residents to exchange resources. The matrix has no independent cells, organs, metabolism, or reproduction of its own.
+Sugar-Silk secretes hydrated gel and reinforcing silk-like threads directly onto the Volcanic Spring Tick, building sheets, folds, and sheltered channels. These provide space for the Sugar-Silk Protist and the Emberspit Microbe, which lives in the warmest channels, while the tick carries and patrols the housing. The matrix has no independent cells, organs, metabolism, or reproduction of its own.
 
 Water and dissolved resources pass through pores between the reinforced folds. Movement and currents deform the gel. Sugar-Silk supplies fresh material, while Matrix Gardeners brace and patch damaged sections. Detached gel can provide temporary shelter, but further production depends on Sugar-Silk cells.
 

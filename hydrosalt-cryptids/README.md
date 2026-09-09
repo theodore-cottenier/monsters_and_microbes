@@ -40,7 +40,7 @@ Arrowheads show direction. Edge identifiers **E01–E30** match the table below;
 
 | No. | Picture | Organism or structure | Main job |
 | --- | --- | --- | --- |
-| 01 | [Map](symbiosis_map.png) | Emberspit Microbe | Harvests sulfur chemistry and supplies energy and carbon byproducts |
+| 01 | [Map](symbiosis_map.png) | Emberspit Microbe | Lives in the tick's warm matrix channels; harvests sulfur chemistry and supplies energy and carbon byproducts |
 | 02 | <img src="sulfurivora_capsida.png" alt="Emberspit Phage" width="80"> | Emberspit Phage | Infects and limits Emberspit cells |
 | 03 | [Map](symbiosis_map.png) | Sugar-Silk Protist | Creates the tick's matrix housing and refines sugars |
 | 04 | <img src="gelatinocella_wardii.png" alt="Matrix Gardener" width="80"> | Matrix Gardener | Repairs damaged matrix gel |
@@ -98,11 +98,11 @@ Node 07 is the Sugar-Silk-produced structure attached to the Volcanic Spring Tic
 
 ## Core symbiosis
 
-Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing directly on the tick and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing directly on the tick and supplies refined sugars. Emberspit lives in the housing's warmest channels, supplies sulfur-derived chemical energy and carbon byproducts, and shares the protected space. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
 
 ## Community dynamics
 
-The Emberspit harvester trades carbon-rich byproducts for Sugar-Silk's refined sugars. It also supplies the Ironback Mason, whose mineral footholds stabilize the harvester's films. Cold Veil supplies trace salts to Sugar-Silk, while Sulfur Lace contributes recycled carbon. These links let resource exchange continue without passing through the tick.
+The Emberspit harvester lives in the warmest channels of the Sugar-Silk housing on the tick. It trades carbon-rich byproducts for Sugar-Silk's refined sugars and supplies the Ironback Mason, whose mineral footholds stabilize the harvester's films. Cold Veil supplies trace salts to Sugar-Silk, while Sulfur Lace contributes recycled carbon. These links let resource exchange continue without passing through the tick.
 
 Sugar-Silk fuels Matrix Gardener repairs and Lantern Veil signals. Matrix Gardeners patch the Matrix Host in exchange for sheltered living space. Lantern Veil's cues help Leapspore settle along stable corridors; Leapspore carries dormant gardener recruits between terraces. The tick contributes launch turbulence as one dispersal partner.
 

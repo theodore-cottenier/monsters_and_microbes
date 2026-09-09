@@ -5,7 +5,7 @@
 
 ## Scientific summary
 
-*Sulfuribacillus thermophilus* is a heat-loving sulfur harvester that occupies the warmest channels of the HydroSalts symbiotic matrix. Its mineral-rich biofilm captures reduced sulfur compounds and passes stabilized energy packages to the host colony.
+*Sulfuribacillus thermophilus* is a heat-loving sulfur harvester that lives in the warmest channels of the Sugar-Silk matrix housing on the Volcanic Spring Tick. Its mineral-rich biofilm captures reduced sulfur compounds and passes stabilized energy packages to the tick and its symbiotic partners.
 
 - **Preferred zone:** 65-95 degrees C vent margins
 - **Form:** Short rod-like cells in orange mineral films
@@ -18,7 +18,7 @@ The Emberspit colony is recognized by orange flecks in the matrix and a habit of
 
 ## Core symbiosis
 
-Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing and supplies refined sugars. Emberspit supplies sulfur-derived chemical energy and carbon byproducts. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
+Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillus thermophilus*), and Volcanic Spring Tick (*Hydrosaltator amictus*) form a three-way symbiotic relationship. Sugar-Silk creates the extracellular matrix housing on the tick. Emberspit lives inside its warmest channels, supplies sulfur-derived chemical energy and carbon byproducts, and shares the protected housing. The tick distributes symbiont products and provides protected surface pockets for its partners. The matrix itself is not a species.
 
 ## Detailed behavior
 
