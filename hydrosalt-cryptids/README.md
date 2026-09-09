@@ -38,23 +38,23 @@ Arrowheads show direction. Edge identifiers **E01–E30** match the table below;
 
 ### What each one does
 
-| No. | Organism or structure | Main job |
-| --- | --- | --- |
-| 01 | Emberspit Microbe | Harvests sulfur chemistry and supplies energy and carbon byproducts |
-| 02 | Emberspit Phage | Infects and limits Emberspit cells |
-| 03 | Sugar-Silk Protist | Creates the tick's matrix housing and refines sugars |
-| 04 | Matrix Gardener | Repairs damaged matrix gel |
-| 05 | Cold Veil | Supplies trace salts to Sugar-Silk |
-| 06 | Ironback Mason | Builds mineral footholds and stabilizes sulfur films |
-| 07 | Tick Matrix Housing | Sugar-Silk-made shelter attached to the Volcanic Spring Tick |
-| 08 | Lantern Veil | Signals safe vent routes |
-| 09 | Leapspore | Carries recruits between terraces |
-| 10 | Matrix Jackal | Steals gel and preys on repair cells and the tick |
-| 11 | Volcanic Spring Tick | Moves through the vent, distributes symbiont products, and carries housing |
-| 12 | Moustache Mite | Grazes sulfur filaments and tick palps |
-| 13 | Sulfur Lace | Recycles spent sulfur films and supplies carbon |
-| 14 | Graveglass | Sheds silica and occupies old films |
-| 15 | Black Choir Virus | Infects Graveglass |
+| No. | Picture | Organism or structure | Main job |
+| --- | --- | --- | --- |
+| 01 | [Map](symbiosis_map.png) | Emberspit Microbe | Harvests sulfur chemistry and supplies energy and carbon byproducts |
+| 02 | <img src="sulfurivora_capsida.png" alt="Emberspit Phage" width="80"> | Emberspit Phage | Infects and limits Emberspit cells |
+| 03 | [Map](symbiosis_map.png) | Sugar-Silk Protist | Creates the tick's matrix housing and refines sugars |
+| 04 | <img src="gelatinocella_wardii.png" alt="Matrix Gardener" width="80"> | Matrix Gardener | Repairs damaged matrix gel |
+| 05 | <img src="cryovora_brineveil.png" alt="Cold Veil" width="80"> | Cold Veil | Supplies trace salts to Sugar-Silk |
+| 06 | <img src="ferrucoccus_scuttans.png" alt="Ironback Mason" width="80"> | Ironback Mason | Builds mineral footholds and stabilizes sulfur films |
+| 07 | [Map](symbiosis_map.png) | Tick Matrix Housing | Sugar-Silk-made shelter attached to the Volcanic Spring Tick |
+| 08 | <img src="luminocystis_ventor.png" alt="Lantern Veil" width="80"> | Lantern Veil | Signals safe vent routes |
+| 09 | <img src="aerosporia_leaperi.png" alt="Leapspore" width="80"> | Leapspore | Carries recruits between terraces |
+| 10 | <img src="parasitovibrio_hijackii.png" alt="Matrix Jackal" width="80"> | Matrix Jackal | Steals gel and preys on repair cells and the tick |
+| 11 | [Map](symbiosis_map.png) | Volcanic Spring Tick | Moves through the vent, distributes symbiont products, and carries housing |
+| 12 | <img src="palpophaga_pilosa.png" alt="Moustache Mite" width="80"> | Moustache Mite | Grazes sulfur filaments and tick palps |
+| 13 | <img src="mycocladus_sulfuris.png" alt="Sulfur Lace" width="80"> | Sulfur Lace | Recycles spent sulfur films and supplies carbon |
+| 14 | [Map](symbiosis_map.png) | Graveglass | Sheds silica and occupies old films |
+| 15 | <img src="umbrachoir_lyticus.png" alt="Black Choir Virus" width="80"> | Black Choir Virus | Infects Graveglass |
 
 ## Direct relationships
 
