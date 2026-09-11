@@ -36,6 +36,10 @@ The illustrated vent food web connects **14 organisms and the tick-attached matr
 
 *Vent field reference photograph used alongside the speculative HydroSalts habitat illustration.*
 
+![Hydrothermal vent field reference photograph, version 2](hydrosalt-cryptids/vent_photo_2_0.jpg)
+
+*Second vent field reference photograph from the Downloads set.*
+
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |
 | [<img src="hydrosalt-cryptids/luminocystis_ventor.png" alt="Luminocystis ventor scientific illustration" width="120">](hydrosalt-cryptids/luminocystis_ventor.md)<br>[*Luminocystis ventor*](hydrosalt-cryptids/luminocystis_ventor.md) | Mutualist | Bioluminescent signaler |

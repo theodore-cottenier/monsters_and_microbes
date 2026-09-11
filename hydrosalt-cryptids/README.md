@@ -12,6 +12,10 @@ This speculative hydrothermal-vent community is a web of exchanges among microbe
 
 This vent photograph from the Downloads reference set shows the kind of mineral chimney and dark seafloor habitat represented by the speculative community.
 
+![Hydrothermal vent field reference photograph, version 2](vent_photo_2_0.jpg)
+
+This second vent reference shows pale mineral chimneys, dense vent growth, and a dark plume rising into the surrounding water.
+
 ## How to read the arrows
 
 - **Green, solid — beneficial exchange:** resource or service provider → recipient. Reciprocal arrows show the two sides of a mutualism.
