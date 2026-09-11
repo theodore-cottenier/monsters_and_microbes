@@ -38,7 +38,7 @@ The illustrated vent food web connects **14 organisms and the tick-attached matr
 
 ![Hydrothermal vent field reference photograph, version 2](hydrosalt-cryptids/vent_photo_2_0.jpg)
 
-*Second vent field reference photograph from the Downloads set.*
+*Second vent field reference photograph from the Downloads set, showing the kind of habitat where the fictional HydroSalts community would live.*
 
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |

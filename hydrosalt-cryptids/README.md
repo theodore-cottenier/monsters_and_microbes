@@ -14,7 +14,7 @@ This vent photograph from the Downloads reference set shows the kind of mineral 
 
 ![Hydrothermal vent field reference photograph, version 2](vent_photo_2_0.jpg)
 
-This second vent reference shows pale mineral chimneys, dense vent growth, and a dark plume rising into the surrounding water.
+This second image was taken in the kind of hydrothermal-vent environment where the fictional HydroSalts community would live: pale mineral chimneys, dense vent growth, and dark plumes rising into the surrounding water.
 
 ## How to read the arrows
 
