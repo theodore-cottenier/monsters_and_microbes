@@ -6,7 +6,7 @@ This repository contains speculative, AI-generated organism profiles and support
 
 ## Featured organism: *Hydrosaltator amictus*
 
-*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is about 0.8 mm long and adapted to hydrothermal vents at 2,500-4,960 m depth. It has a compact oval fuzzy, glowing body, articulated legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its normal jump covers about 30 mm (3 cm), or 37.5 body lengths. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
+*Hydrosaltator amictus*, also called the Volcanic Spring Tick or Sulfur Spring Tick, is about 0.8 mm long and has approximately 4,000 cells: 1,400 fixed core cells and about 2,600 regenerative shell and support cells. It is adapted to hydrothermal vents at 2,500-4,960 m depth. It has a compact oval fuzzy, glowing body, articulated legs for scuttling and hydraulic leaping, and furry mustache-like palps for sensing and self-grooming. Its normal jump covers about 30 mm (3 cm), or 37.5 body lengths. Its active range is 50-85 degrees C, with a tun (cryptobiotic) state below 40 degrees C and a lethal limit above 110 degrees C.
 
 The organism is described as partially eutelic, with a fixed brain and valves plus a regenerative outer shell. Its proposed symbiotic ecosystem is a three-way symbiosis between the tick, *Sulfuribacillus thermophilus* (Emberspit Microbe), and *Saccharoplasma lentus* (Sugar-Silk Protist). Sugar-Silk creates the matrix housing; the matrix is not a species.
 

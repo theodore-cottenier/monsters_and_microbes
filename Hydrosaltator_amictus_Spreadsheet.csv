@@ -4,7 +4,9 @@ Common Names,"Volcanic Spring Tick, Sulfur Spring Tick"
 Size,About 0.8 mm
 Normal Jump Distance,About 30 mm (3 cm)
 Normal Jump Body Lengths,37.5
-Total Cell Count,1400
+Total Cell Count,4000
+Fixed Core Cell Count,1400
+Regenerative Shell And Support Cell Count,2600
 Body Appearance,"Elongated fuzzy, glowing body with a pressure-sensitive inner bladder"
 Legs,"Short articulated limbs for scuttling and hydraulic leaping"
 Head,"Furry mustache-like palps for sensing and self-grooming"

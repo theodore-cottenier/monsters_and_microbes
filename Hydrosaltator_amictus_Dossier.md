@@ -7,7 +7,7 @@
 - **Common Names:** Volcanic Spring Tick, Sulfur Spring Tick
 - **Size:** About 0.8 mm
 - **Normal jump distance:** About 30 mm (3 cm), or 37.5 body lengths
-- **Cell Count:** 1400 cells
+- **Cell Count:** About 4,000 cells total (1,400 fixed core; about 2,600 regenerative shell and support cells)
 
 ## Appearance and Locomotion
 
@@ -76,7 +76,7 @@ A disturbance prompts the legs to brace before the pressure system drives a leap
 
 **Exchange and nozzle structures.** Sheltered surface pockets bring feeding tissues into contact with the symbiotic matrix. Separate face-valve passages guide the established chemical mixtures toward the conical pre-wash and blast-vent outlets. Reinforced outlet rims resist abrasion, while nearby grooming hairs keep deposits from obstructing them.
 
-**Cell allocation and tun form.** The established 1,400-cell body is partially eutelic: brain and valve components retain a fixed organization while the outer shell can regenerate. In the tun, the bladder relaxes, limbs and palps tuck inward, and the body wall closes over vulnerable openings, leaving a compact protected form.
+**Cell allocation and tun form.** The approximately 4,000-cell body is partially eutelic: about 1,400 brain, valve, and other core cells retain a fixed organization while roughly 2,600 shell and support cells can regenerate. In the tun, the bladder relaxes, limbs and palps tuck inward, and the body wall closes over vulnerable openings, leaving a compact protected form.
 
 ## Relationships in the wider food web
 
