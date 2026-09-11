@@ -4,8 +4,8 @@
         "Volcanic Spring Tick",
         "Sulfur Spring Tick"
     ],
-    "Size": "1 mm",
-    "Normal Jump Distance": "About 37.5 mm (3.75 cm)",
+    "Size": "About 0.8 mm",
+    "Normal Jump Distance": "About 30 mm (3 cm)",
     "Normal Jump Body Lengths": 37.5,
     "Total Cell Count": 1400,
     "Appearance": {

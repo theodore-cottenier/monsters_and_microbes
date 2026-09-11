@@ -5,8 +5,8 @@
 ## Profile
 - **Scientific Name:** Hydrosaltator amictus
 - **Common Names:** Volcanic Spring Tick, Sulfur Spring Tick
-- **Size:** 1 mm
-- **Normal jump distance:** About 37.5 mm (3.75 cm), or 37.5 body lengths
+- **Size:** About 0.8 mm
+- **Normal jump distance:** About 30 mm (3 cm), or 37.5 body lengths
 - **Cell Count:** 1400 cells
 
 ## Appearance and Locomotion
@@ -68,7 +68,7 @@ A disturbance prompts the legs to brace before the pressure system drives a leap
 
 ## Detailed anatomy
 
-**Body wall and coat.** The 1 mm body is a compact, broad oval with a flexible regenerative outer shell. Dense fine projections hold a thin film of surrounding matrix and symbionts, producing the fuzzy outline and mottled charcoal, orange, yellow, olive, and teal surface. Sparse luminous speckles interrupt this coating. Flexible ventral folds let the limbs withdraw without tearing the shell.
+**Body wall and coat.** The approximately 0.8 mm body is a compact, broad oval with a flexible regenerative outer shell. Dense fine projections hold a thin film of surrounding matrix and symbionts, producing the fuzzy outline and mottled charcoal, orange, yellow, olive, and teal surface. Sparse luminous speckles interrupt this coating. Flexible ventral folds let the limbs withdraw without tearing the shell.
 
 **Head and sensory apparatus.** Paired mustache-like palps carry numerous fine contact hairs. Their flexible bases sweep a broad arc across the face, bringing trapped grit away from the valve openings. Three light-sensitive spots provide coarse orientation rather than detailed vision. A small fixed brain integrates these inputs with limb contact and pressure signals.
 
