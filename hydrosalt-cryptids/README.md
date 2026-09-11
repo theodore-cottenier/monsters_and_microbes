@@ -6,6 +6,12 @@ This speculative hydrothermal-vent community is a web of exchanges among microbe
 
 [Open the full PNG diagram](symbiosis_map.png) or the [scalable SVG diagram](symbiosis_map.svg). Labels link to organism profiles when the SVG is opened directly in a compatible viewer. The artwork shows hot sulfur channels on the left, living gel terraces in the middle, and cold brine and abandoned fissures on the right. Organisms are enlarged independently and are not drawn to a common scale.
 
+### Vent field reference
+
+![Hydrothermal vent field reference photograph](vent_photo.png)
+
+This vent photograph from the Downloads reference set shows the kind of mineral chimney and dark seafloor habitat represented by the speculative community.
+
 ## How to read the arrows
 
 - **Green, solid — beneficial exchange:** resource or service provider → recipient. Reciprocal arrows show the two sides of a mutualism.

@@ -32,6 +32,10 @@ The dossier, JSON, and CSV provide the easiest formats for reading or reusing th
 
 The illustrated vent food web connects **14 organisms and the tick-attached matrix housing through 30 direct relationships**, with **24 links independent of the Volcanic Spring Tick**. Colored arrows distinguish beneficial exchange, predation, parasitism, viral infection, and commensal transport. The [community overview and relationship table](hydrosalt-cryptids/README.md) explain every arrow, including exchanges among harvesters, refiners, repair cells, recyclers, and the cold-fissure community. The [Tick Matrix Housing profile](hydrosalt-cryptids/gelatinicollum_vulcanum.md) describes the extracellular habitat created by Sugar-Silk.
 
+![Hydrothermal vent field reference photograph](hydrosalt-cryptids/vent_photo.png)
+
+*Vent field reference photograph used alongside the speculative HydroSalts habitat illustration.*
+
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |
 | [<img src="hydrosalt-cryptids/luminocystis_ventor.png" alt="Luminocystis ventor scientific illustration" width="120">](hydrosalt-cryptids/luminocystis_ventor.md)<br>[*Luminocystis ventor*](hydrosalt-cryptids/luminocystis_ventor.md) | Mutualist | Bioluminescent signaler |
