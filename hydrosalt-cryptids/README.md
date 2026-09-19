@@ -1,6 +1,6 @@
 # HydroSalts: a living vent food web
 
-This speculative hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is the mobile animal carrying its Sugar-Silk-produced matrix housing. The illustrated map includes **14 vent organisms and one attached matrix structure**, with **30 direct relationships; 24 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other imagined microhabitats and are not placed in this vent community.
+This  hydrothermal-vent community is a web of exchanges among microbes, grazers, parasites, and viruses. The Volcanic Spring Tick is the mobile animal carrying its Sugar-Silk-produced matrix housing. The illustrated map includes **14 vent organisms and one attached matrix structure**, with **30 direct relationships; 24 do not involve the tick**. The seven *Speculomyces* taxa in the separate microscope field guide belong to other  microhabitats and are not placed in this vent community.
 
 ![Illustrated HydroSalts vent food web with fourteen organisms, tick-attached matrix housing, and colored relationship arrows](symbiosis_map.png)
 
@@ -10,11 +10,11 @@ This speculative hydrothermal-vent community is a web of exchanges among microbe
 
 ![Hydrothermal vent field reference photograph](vent_photo.png)
 
-This vent photograph from the Downloads reference set shows the kind of mineral chimney and dark seafloor habitat represented by the speculative community.
+This vent photograph from the Downloads reference set shows the kind of mineral chimney and dark seafloor habitat represented by the  community.
 
 ![Hydrothermal vent field reference photograph, version 2](vent_photo_2_0.jpg)
 
-This second image was taken in the kind of hydrothermal-vent environment where the fictional HydroSalts community would live: pale mineral chimneys, dense vent growth, and dark plumes rising into the surrounding water.
+This second image was taken in the kind of hydrothermal-vent environment where the  HydroSalts community would live: pale mineral chimneys, dense vent growth, and dark plumes rising into the surrounding water.
 
 ## How to read the arrows
 

@@ -19,7 +19,6 @@ A low copper-red disc with overlapping iron plates and mineral-collecting cilia.
 
 Builds stable mineral footholds for Hydrosaltator; receives sulfur energy packets from Sulfuribacillus thermophilus.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

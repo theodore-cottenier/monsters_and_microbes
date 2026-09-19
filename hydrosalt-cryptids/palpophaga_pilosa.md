@@ -19,7 +19,6 @@ A tiny flattened amber parasite with comb-like mouthparts and a clamp tail. This
 
 Feeds on grooming oils and mineral residue from the host's palps; small numbers remove grit, crowds cause itching.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

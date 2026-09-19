@@ -19,7 +19,6 @@ A dark hooked rod with a sucker collar and a backpack-like brood pouch. This cry
 
 Steals matrix gel from Hydrosaltator and weakens housing; scavengers feed on abandoned gel trails.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 
@@ -33,7 +32,7 @@ Host grooming or approaching repair cells interrupt a theft. The jackal holds st
 
 ## Detailed anatomy
 
-**Hooked body.** The dark rod curves around a reinforced inner edge, giving it leverage against soft matrix sheets. A flexible outer covering permits bending while longitudinal supporting fibers resist stretching. Its shape is rod-like, but the fictional brood-bearing body is more elaborate than a simple bacterial cell.
+**Hooked body.** The dark rod curves around a reinforced inner edge, giving it leverage against soft matrix sheets. A flexible outer covering permits bending while longitudinal supporting fibers resist stretching. Its shape is rod-like, but the  brood-bearing body is more elaborate than a simple bacterial cell.
 
 **Sucker collar.** A broad collar surrounds the attachment end. Its soft rim seals against wet gel while a recessed center provides temporary suction and adhesion. Small sensory pits along the rim detect contact and deformation, helping the parasite distinguish a firm anchor from a flap that will tear away.
 

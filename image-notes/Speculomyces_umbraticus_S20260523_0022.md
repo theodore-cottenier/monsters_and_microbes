@@ -20,19 +20,18 @@ In the field guide, this specimen occupies a compost-warm forest hollow. It shar
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
-## Fictional biology
-
-The following species-level behavior and anatomy are imagined field-guide lore shared across this taxon's entries; they are not observations or identifications from this photograph.
+## Biology
+The following species-level behavior and anatomy are  field-guide lore shared across this taxon's entries; they are not observations or identifications from this photograph.
 
 ## Detailed behavior
 
-Umbraticus traces the margins of droplets in the fictional microhabitat, following moisture and dissolved scent cues. It leaves a faint adhesive trail whose chemical composition changes with recent feeding. Later contact with that trail alters its route, creating the field guide's impression that it remembers each nearby droplet.
+Umbraticus traces the margins of droplets in the  microhabitat, following moisture and dissolved scent cues. It leaves a faint adhesive trail whose chemical composition changes with recent feeding. Later contact with that trail alters its route, creating the field guide's impression that it remembers each nearby droplet.
 
 The cell favors shaded recesses and slows when it meets a dry gap. If a water bridge forms, it extends across incrementally while keeping its rear anchored. Sudden illumination prompts withdrawal beneath debris. During scarcity, neighboring cells cluster around the last damp pocket and reduce movement, retaining separate bodies while sharing short exchanges of dissolved nutrients.
 
 ## Detailed anatomy
 
-**Shadowed envelope.** The fictional cell has a soft lobed outline and a smoky outer pigment layer. A hydrated mucous sheath smooths the surface and holds chemical traces close to the body. Beneath it, a contractile cortex lets individual lobes extend or retract independently.
+**Shadowed envelope.** The  cell has a soft lobed outline and a smoky outer pigment layer. A hydrated mucous sheath smooths the surface and holds chemical traces close to the body. Beneath it, a contractile cortex lets individual lobes extend or retract independently.
 
 **Sensory perimeter.** Numerous small receptor patches line the leading lobes, sampling water chemistry and surface contact. Their uneven stimulation changes local tension and directs creeping. There is no permanent head or brain; the apparent memory rests on persistent cellular responses and the deposited chemical trail.
 

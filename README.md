@@ -1,6 +1,6 @@
-# AI-Generated Microbes
+# HydroSalts Microbes
 
-This repository contains speculative, AI-generated organism profiles and supporting reference material.
+This repository contains organism profiles and supporting reference material.
 
 ![Illustrated HydroSalts vent food web](hydrosalt-cryptids/symbiosis_map.png)
 
@@ -34,11 +34,11 @@ The illustrated vent food web connects **14 organisms and the tick-attached matr
 
 ![Hydrothermal vent field reference photograph](hydrosalt-cryptids/vent_photo.png)
 
-*Vent field reference photograph used alongside the speculative HydroSalts habitat illustration.*
+*Vent field reference photograph used alongside the  HydroSalts habitat illustration.*
 
 ![Hydrothermal vent field reference photograph, version 2](hydrosalt-cryptids/vent_photo_2_0.jpg)
 
-*Second vent field reference photograph from the Downloads set, showing the kind of habitat where the fictional HydroSalts community would live.*
+*Second vent field reference photograph from the Downloads set, showing the kind of habitat where the  HydroSalts community would live.*
 
 | Illustration / cryptid | Type | Role |
 | --- | --- | --- |
@@ -127,7 +127,7 @@ Each row pairs a shot with its species-named field-note description. Images are 
 | <img src="single-shots/S20260830_0016.jpg" width="120" alt="S20260830_0016.jpg"><br><sub>S20260830_0016.jpg</sub> | [*Speculomyces cellulovorus* field note](image-notes/Speculomyces_cellulovorus_S20260830_0016.md) - false-color arthropod body |
 | <img src="single-shots/S20260830_0017.jpg" width="120" alt="S20260830_0017.jpg"><br><sub>S20260830_0017.jpg</sub> | [*Speculomyces velutinus* field note](image-notes/Speculomyces_velutinus_S20260830_0017.md) - arthropod body |
 
-## Other AI-generated microbes
+## Other microbes
 
 - [*Thanatovibrio umbracaris* dossier](Thanatovibrio_umbracaris_Dossier.md) - scary microbe profile
 - [*Thanatovibrio umbracaris* structured data](Thanatovibrio_umbracaris_Data.json)

@@ -19,7 +19,6 @@ A cluster of translucent oval cells linked by broad ribbon-like braces. This cry
 
 Repairs tears in Sugar-Silk-produced matrix and shelters the host's young; receives sugars from Saccharoplasma.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

@@ -19,7 +19,6 @@ A dark teardrop spore with a parachute fringe and pressure bladder. This cryptid
 
 Carries dormant cells and chemical cues between terraces; Hydrosaltator provides launch turbulence and receives recruits.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

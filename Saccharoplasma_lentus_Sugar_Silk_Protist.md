@@ -14,7 +14,6 @@
 
 The Sugar-Silk Protist is famously unhurried: a single refinement cycle can take several minutes, which is considered “punctual” by vent standards.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Core symbiosis
 

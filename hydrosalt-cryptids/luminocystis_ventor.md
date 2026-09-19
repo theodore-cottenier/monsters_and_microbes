@@ -19,7 +19,6 @@ A translucent ribboned cyst with three luminous eye-spots and a frilled tail. Th
 
 Signals safe vent corridors to Hydrosaltator amictus; receives matrix sugars and protection from the host's fuzzy coat.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

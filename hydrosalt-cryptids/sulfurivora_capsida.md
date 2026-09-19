@@ -19,7 +19,6 @@ A geometric sulfur-yellow capsid with a filament tail and angular docking fibers
 
 Uses Emberspit cells to replicate; periodic infections stop harvesters monopolizing sulfur channels.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 
@@ -33,7 +32,7 @@ New particles accumulate before the host cell breaks down and releases them into
 
 ## Detailed anatomy
 
-**Capsid shell.** The sulfur-yellow head is a geometric protein shell assembled from repeating subunits. Raised edges reinforce its facets, enclosing a compact genome. The color is part of the fictional illustration and does not imply that the shell is made of elemental sulfur or produces energy from it.
+**Capsid shell.** The sulfur-yellow head is a geometric protein shell assembled from repeating subunits. Raised edges reinforce its facets, enclosing a compact genome. The color is part of the  illustration and does not imply that the shell is made of elemental sulfur or produces energy from it.
 
 **Genome packing.** The genome thread is densely arranged inside the head and exits through a specialized portal at one vertex. Protective internal contacts hold it during transport. There is no nucleus, cytoplasm, digestive compartment, or store of metabolic fuel inside the particle.
 

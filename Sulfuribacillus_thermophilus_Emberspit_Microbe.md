@@ -14,7 +14,6 @@
 
 The Emberspit colony is recognized by orange flecks in the matrix and a habit of “spitting” harmless sulfur-rich bubbles whenever the host changes direction.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Core symbiosis
 
@@ -28,7 +27,7 @@ Host movement compresses the film and dislodges its characteristic sulfur-rich b
 
 ## Detailed anatomy
 
-**Rod-shaped cell.** Each short rod has rounded ends enclosed by a resilient surface layer over a selective membrane. The coating supports the cell against chemical fluctuations and provides attachment sites for the communal film. As an archaeal harvester in this fictional setting, it has dispersed genetic material and ribosomes rather than a membrane-bound nucleus.
+**Rod-shaped cell.** Each short rod has rounded ends enclosed by a resilient surface layer over a selective membrane. The coating supports the cell against chemical fluctuations and provides attachment sites for the communal film. As an archaeal harvester in this  setting, it has dispersed genetic material and ribosomes rather than a membrane-bound nucleus.
 
 **Energy-processing membrane.** Membrane-associated reaction sites handle the incoming sulfur compounds and connect their chemical energy to cellular work. Surface transport proteins control entry and export, keeping the immediate cell interior distinct from the mineral-rich water outside.
 

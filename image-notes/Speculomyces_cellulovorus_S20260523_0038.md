@@ -20,19 +20,18 @@ In the field guide, this specimen occupies the damp underside of a fallen leaf. 
 
 The ecosystem is small but busy: pigment cells provide shade, scavenger filaments recycle abandoned material, and a patient predator waits until everyone stops moving.
 
-## Fictional biology
-
-The following species-level behavior and anatomy are imagined field-guide lore shared across this taxon's entries; they are not observations or identifications from this photograph.
+## Biology
+The following species-level behavior and anatomy are  field-guide lore shared across this taxon's entries; they are not observations or identifications from this photograph.
 
 ## Detailed behavior
 
-Cellulovorus works along decomposing plant residue in the fictional habitat, softening exposed material and absorbing the resulting soluble food. Mineral grains caught during feeding are sorted into small deposits along the colony edge. Water movement against these deposits creates the tiny resonant bells of the field guide.
+Cellulovorus works along decomposing plant residue in the  habitat, softening exposed material and absorbing the resulting soluble food. Mineral grains caught during feeding are sorted into small deposits along the colony edge. Water movement against these deposits creates the tiny resonant bells of the field guide.
 
 A passing shadow interrupts feeding: exposed lobes contract, contacts tighten, and the colony becomes still until the light returns to its previous level. Neighboring cells relay the disturbance through mechanical contact, producing a brief wave of withdrawal. As a patch is exhausted, fragments carrying reserves and a few mineral grains detach to establish another feeding front.
 
 ## Detailed anatomy
 
-**Feeding body.** The fictional organism forms an irregular lobed cell or loose chain of connected cells. A flexible outer coat adheres to decaying plant surfaces, while broad ventral lobes increase contact with the material being processed. Enzyme-secreting sites and absorptive membrane patches are concentrated along this feeding face.
+**Feeding body.** The  organism forms an irregular lobed cell or loose chain of connected cells. A flexible outer coat adheres to decaying plant surfaces, while broad ventral lobes increase contact with the material being processed. Enzyme-secreting sites and absorptive membrane patches are concentrated along this feeding face.
 
 **Mineral bells.** Shallow exterior cups accumulate selected mineral grains in a secreted binder. Their thin rims and hollow centers provide the setting's resonant structures. The cups remain outside the living membrane and can break away without spilling the cell contents; they are neither internal skeletons nor auditory organs.
 

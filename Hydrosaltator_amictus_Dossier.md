@@ -54,7 +54,6 @@ When *Hydrosaltator amictus* encounters another colony or a fresh patch of matri
 - Liquid Sulfur Solvent: 8%
 - Dissolved H2S Gas: 2%
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Core symbiosis
 

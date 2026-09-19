@@ -19,7 +19,6 @@ A pale blue veil of bead-like cells joined by a delicate thread. This cryptid sh
 
 Uses the host's wake as a current map without taking its food; concentrates trace salts for nearby refiners.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

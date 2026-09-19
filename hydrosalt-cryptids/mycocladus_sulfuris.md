@@ -19,7 +19,6 @@ A branching amber filament network with hooked recycling nodules. This cryptid s
 
 Breaks down spent sulfur films for Saccharoplasma lentus and returns trace minerals to the matrix.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Field behavior
 

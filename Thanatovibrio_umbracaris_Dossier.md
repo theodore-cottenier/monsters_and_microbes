@@ -30,7 +30,6 @@ The organism feeds on dissolved minerals and the trace electrical gradients arou
 
 In-universe surveys mark any clicking tunnel as **BLACK CHOIR - DO NOT ANSWER**. The only reliable field sign is a fresh line of dark glass crossing an otherwise clean surface.
 
-*The expanded behavior and anatomy below are speculative worldbuilding for this fictional organism.*
 
 ## Detailed behavior
 
@@ -42,7 +41,7 @@ Feeding draws on dissolved minerals and weak electrical gradients while new sili
 
 **Living filament.** The active filament is recorded at 2.4 micrometers and forms part of a much larger threadlike mat. A narrow living strand runs inside each sheath, with membrane-bounded cellular compartments arranged along its length. There is no permanent central organelle governing the colony; local changes propagate through connected junctions.
 
-**Obsidian sheath.** Successive silica deposits build a dark, brittle sleeve around the living strand. Thin growth rings mark earlier deposition fronts. Small discontinuities permit exchange with the surrounding water, while thicker mature sections provide the rigid surfaces responsible for the colony's glassy appearance and fictional resonance.
+**Obsidian sheath.** Successive silica deposits build a dark, brittle sleeve around the living strand. Thin growth rings mark earlier deposition fronts. Small discontinuities permit exchange with the surrounding water, while thicker mature sections provide the rigid surfaces responsible for the colony's glassy appearance and  resonance.
 
 **Junctions and sensory contacts.** Branch points connect several strands through softer living bridges. Contact patches pressed against stone or metal register mechanical strain and local electrical differences. The network's many attachment points let a disturbance enter at one location and influence growth elsewhere without swimming through open water.
 
