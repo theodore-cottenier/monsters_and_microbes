@@ -1,6 +1,12 @@
 # Scientific Dossier: *Hydrosaltator amictus*
 
-![Scientific diagram of Hydrosaltator amictus](Hydrosaltator_amictus_Scientific_Diagram.png)
+![Naked-eye view of the Volcanic Spring Tick near a hydrothermal vent](Hydrosaltator_amictus_Naked_Eye.png)
+
+*At ordinary viewing distance, the 0.8 mm tick is only a tiny, softly glowing volcanic-slime-colored dot.*
+
+![Microscope impression of the Volcanic Spring Tick](Hydrosaltator_amictus_Microscope_View.png)
+
+*Under a microscope, it appears as a slightly glowing, vague fuzzy impression rather than a crisp diagram.*
 
 ## Profile
 - **Scientific Name:** Hydrosaltator amictus
