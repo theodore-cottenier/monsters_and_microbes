@@ -1,6 +1,6 @@
 # Field note: Codex Image Aug 30, 2026, 05_06_59 PM
 
-![ Codex Image Aug 30, 2026, 05_06_59 PM](../single-shots/Codex%20Image%20Aug%2030%2C%202026%2C%2005_06_59%20PM.jpg)
+![ Codex Image Aug 30, 2026, 05_06_59 PM](../Microsope_pictures/Codex%20Image%20Aug%2030%2C%202026%2C%2005_06_59%20PM.jpg)
 
 ## Specimen record
 

@@ -1,6 +1,6 @@
 # Field note: S20260830_0012
 
-![ S20260830_0012](../single-shots/S20260830_0012.jpg)
+![ S20260830_0012](../Microsope_pictures/S20260830_0012.jpg)
 
 ## Specimen record
 
