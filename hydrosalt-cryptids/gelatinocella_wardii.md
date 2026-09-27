@@ -52,7 +52,7 @@ This organism uses the HydroSalts template: anatomy, habitat, ecosystem role, an
 
 ## Relationships in the wider food web
 
-The Matrix Jackal can consume exposed repair cells while stripping gel. Surviving gardeners close broken contact bridges and retreat behind intact braces. Leapspore transports dormant gardener recruits to other terraces, allowing damaged patches to be repopulated.
+The Matrix Jackal can consume exposed repair cells while stripping gel. Surviving gardeners close broken contact bridges and retreat behind intact braces. Leapspore now uses this terrace network as a chemical map rather than transporting gardener recruits.
 
 The following direct links appear in the [illustrated community food web](README.md). Exchange arrows run from provider to recipient; predation, parasitism, and infection run from attacker to target.
 
@@ -61,5 +61,5 @@ The following direct links appear in the [illustrated community food web](README
 | E03 | *Saccharoplasma lentus* | *Gelatinocella wardii* | Repair fuel (benefit) |
 | E04 | *Gelatinocella wardii* | Sugar-Silk-produced matrix | Patches gel (benefit) |
 | E05 | Sugar-Silk-produced matrix | *Gelatinocella wardii* | Shelter (benefit) |
-| E11 | *Aerosporia leaperi* | *Gelatinocella wardii* | Disperses recruits (benefit) |
+
 | E15 | *Parasitovibrio hijackii* | *Gelatinocella wardii* | Consumes repair cells (predation) |

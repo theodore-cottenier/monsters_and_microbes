@@ -90,7 +90,7 @@ The following direct links appear in the [illustrated community food web](hydros
 | Edge | From | To | Interaction |
 | --- | --- | --- | --- |
 | E16 | *Palpophaga pilosa* | *Hydrosaltator amictus* | Palp grazing (parasitism) |
-| E20 | *Hydrosaltator amictus* | *Aerosporia leaperi* | Launch turbulence (transport) |
+| E20 | *Hydrosaltator amictus* | *Aerosporia leaperi* | Tun-state chemical signal (benefit) |
 | E22 | Emberspit | Volcanic Spring Tick | Chemical energy (benefit) |
 | E23 | Volcanic Spring Tick | Emberspit | Protection and distribution (benefit) |
 | E24 | Sugar-Silk | Volcanic Spring Tick | Sugars and housing (benefit) |

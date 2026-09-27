@@ -56,7 +56,7 @@ The illustrated vent food web connects **14 organisms and the tick-attached matr
 | [<img src="hydrosalt-cryptids/sulfurivora_capsida.png" alt="Sulfurivora capsida scientific illustration" width="120">](hydrosalt-cryptids/sulfurivora_capsida.md)<br>[*Sulfurivora capsida*](hydrosalt-cryptids/sulfurivora_capsida.md) | Virus | Archaea parasite |
 | [<img src="hydrosalt-cryptids/umbrachoir_lyticus.png" alt="Umbrachoir lyticus scientific illustration" width="120">](hydrosalt-cryptids/umbrachoir_lyticus.md)<br>[*Umbrachoir lyticus*](hydrosalt-cryptids/umbrachoir_lyticus.md) | Virus | Colony rhythm parasite |
 | [<img src="hydrosalt-cryptids/gelatinocella_wardii.png" alt="Gelatinocella wardii scientific illustration" width="120">](hydrosalt-cryptids/gelatinocella_wardii.md)<br>[*Gelatinocella wardii*](hydrosalt-cryptids/gelatinocella_wardii.md) | Mutualist | Matrix stabilizer |
-| [<img src="hydrosalt-cryptids/aerosporia_leaperi.png" alt="Aerosporia leaperi scientific illustration" width="120">](hydrosalt-cryptids/aerosporia_leaperi.md)<br>[*Aerosporia leaperi*](hydrosalt-cryptids/aerosporia_leaperi.md) | Dispersal mutualist | Spore courier |
+| [<img src="hydrosalt-cryptids/aerosporia_leaperi.png" alt="Aerosporia leaperi scientific illustration" width="120">](hydrosalt-cryptids/aerosporia_leaperi.md)<br>[*Aerosporia leaperi*](hydrosalt-cryptids/aerosporia_leaperi.md) | Chemical-gradient mutualist | Vent scout and route guide |
 
 ## Microscope image index
 

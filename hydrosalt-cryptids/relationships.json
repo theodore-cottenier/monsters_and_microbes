@@ -244,12 +244,12 @@
     {
       "id": "E11",
       "from": "09",
-      "to": "04",
+      "to": "11",
       "type": "benefit",
-      "label": "Disperses recruits",
-      "path": "M1150 480 C1240 395 1235 315 1160 260",
-      "x": 1210,
-      "y": 354
+      "label": "Guides tick toward active chemistry",
+      "path": "M1015 607 C785 575 430 590 277 719",
+      "x": 700,
+      "y": 620
     },
     {
       "id": "E12",
@@ -336,7 +336,7 @@
       "from": "11",
       "to": "09",
       "type": "transport",
-      "label": "Launch turbulence",
+      "label": "Tun-state chemical signal",
       "path": "M277 719 C430 590 785 575 1015 607",
       "x": 805,
       "y": 605

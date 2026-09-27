@@ -58,7 +58,7 @@ Arrowheads show direction. Edge identifiers **E01–E30** match the table below;
 | 06 | <img src="ferrucoccus_scuttans.png" alt="Ironback Mason" width="80"> | Ironback Mason | Builds mineral footholds and stabilizes sulfur films |
 | 07 | [Map](symbiosis_map.png) | Tick Matrix Housing | Sugar-Silk-made shelter attached to the Volcanic Spring Tick |
 | 08 | <img src="luminocystis_ventor.png" alt="Lantern Veil" width="80"> | Lantern Veil | Signals safe vent routes |
-| 09 | <img src="aerosporia_leaperi.png" alt="Leapspore" width="80"> | Leapspore | Carries recruits between terraces |
+| 09 | <img src="aerosporia_leaperi.png" alt="Leapspore" width="80"> | Leapspore | Scouts chemical gradients and vent activity |
 | 10 | <img src="parasitovibrio_hijackii.png" alt="Matrix Jackal" width="80"> | Matrix Jackal | Steals gel and preys on repair cells and the tick |
 | 11 | [Map](symbiosis_map.png) | Volcanic Spring Tick | Moves through the vent, distributes symbiont products, and carries housing |
 | 12 | <img src="palpophaga_pilosa.png" alt="Moustache Mite" width="80"> | Moustache Mite | Grazes sulfur filaments and tick palps |
@@ -82,7 +82,7 @@ These are in-universe relationships, including newly developed interactions for 
 | E08 | Cold Veil | Sugar-Silk | Beneficial exchange | Trace salts |
 | E09 | Sugar-Silk | Lantern Veil | Beneficial exchange | Sugars |
 | E10 | Lantern Veil | Leapspore | Beneficial exchange | Safe-route cues |
-| E11 | Leapspore | Matrix Gardener | Beneficial exchange | Disperses recruits |
+| E11 | Leapspore | Volcanic Spring Tick | Beneficial exchange | Guides tick toward active chemistry |
 | E12 | Sulfur Lace | Sugar-Silk | Beneficial exchange | Recycled carbon |
 | E13 | Graveglass | Ironback Mason | Beneficial exchange | Shed silica |
 | E14 | Moustache Mite | Sulfur Lace | Predation | Grazes living tips |
@@ -91,7 +91,7 @@ These are in-universe relationships, including newly developed interactions for 
 | E17 | Matrix Jackal | Matrix Host | Parasitism | Steals gel |
 | E18 | Emberspit Phage | Emberspit | Viral infection | Infects harvester |
 | E19 | Black Choir Virus | Graveglass | Viral infection | Infects Graveglass |
-| E20 | Volcanic Spring Tick | Leapspore | Commensal transport | Launch turbulence |
+| E20 | Volcanic Spring Tick | Leapspore | Beneficial exchange | Tun-state chemical signal |
 
 | E21 | Sugar-Silk | Matrix Host | Beneficial exchange | Creates matrix |
 | E22 | Emberspit | Volcanic Spring Tick | Beneficial exchange | Chemical energy |
@@ -114,7 +114,7 @@ Sugar-Silk Protist (*Saccharoplasma lentus*), Emberspit Microbe (*Sulfuribacillu
 
 The Emberspit harvester lives in the warmest channels of the Sugar-Silk housing on the tick. It trades carbon-rich byproducts for Sugar-Silk's refined sugars and supplies the Ironback Mason, whose mineral footholds stabilize the harvester's films. Cold Veil supplies trace salts to Sugar-Silk, while Sulfur Lace contributes recycled carbon. These links let resource exchange continue without passing through the tick.
 
-Sugar-Silk fuels Matrix Gardener repairs and Lantern Veil signals. Matrix Gardeners patch the Matrix Host in exchange for sheltered living space. Lantern Veil's cues help Leapspore settle along stable corridors; Leapspore carries dormant gardener recruits between terraces. The tick contributes launch turbulence as one dispersal partner.
+Sugar-Silk fuels Matrix Gardener repairs and Lantern Veil signals. Matrix Gardeners patch the Matrix Host in exchange for sheltered living space. Lantern Veil's cues help Leapspore settle along stable corridors. Leapspore follows sulfur and heat gradients, guides the tick toward productive chemistry, and detects the tick's tun-state signal when a vent is failing. The tick's launches help Leapspore relocate.
 
 Two new feeding interactions add direct predation between community members. The Moustache Mite supplements its usual palp grazing by cropping **living Sulfur Lace tips**. The Matrix Jackal opportunistically consumes **Matrix Gardener repair cells** encountered while stealing gel. Limited grazing trims local growth; concentrated feeding can reduce recycling or delay housing repair.
 
